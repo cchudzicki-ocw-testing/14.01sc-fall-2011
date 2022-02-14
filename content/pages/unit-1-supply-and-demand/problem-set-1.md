@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Unit 1: Supply and Demand'
+parent_type: CourseSection
 parent_uid: 10bf5cbc-f553-18ee-b099-54ff31dafc1c
 title: Problem Set 1
+type: CourseSection
 uid: 4cecca62-a7b9-486b-1e1d-45d54b8e504b
 ---
 

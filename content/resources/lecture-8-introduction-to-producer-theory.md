@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Introduction to Producer Theory
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 8: Introduction to Producer Theory'
 uid: 47cecaae-1ca1-3f9d-e21d-3b2201d0fa12

@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Unit 6: Topics in Intermediate Microeconomics'
+parent_type: CourseSection
 resourcetype: Image
 title: lec18.jpg
+type: OCWImage
 uid: be28d675-3c00-4d62-69ce-2cd84eb6c324
 ---

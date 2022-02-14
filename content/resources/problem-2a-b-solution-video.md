@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Problem Set 8
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Problem 2a-b Solution Video
 uid: 8ef43bcc-0f64-0ae3-2a7c-2c9c7eedfde7

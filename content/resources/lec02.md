@@ -8,7 +8,11 @@ image_metadata:
   caption: Government intervention can impact gasoline prices.
   credit: Image courtesy of Aaron Tyo-Dikerson on Flickr.
   image-alt: Gasoline prices.
+learning_resource_types: []
+parent_title: Applying Supply and Demand
+parent_type: CourseSection
 resourcetype: Image
 title: lec02.jpg
+type: OCWImage
 uid: 4d900c8c-4d92-e21c-c8fc-835a4eede65d
 ---

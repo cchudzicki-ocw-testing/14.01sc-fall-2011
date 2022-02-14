@@ -4,7 +4,11 @@ description: 'This resource contains solutions to the problem statements related
   equilibrium price and quantity. '
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/14-01sc-principles-of-microeconomics-fall-2011/246785b93665931deee8867a16cfefd9_MIT14_01SCF11_soln01.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Problem Set 1
+parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_soln01.pdf
+type: OCWFile
 uid: 246785b9-3665-931d-eee8-867a16cfefd9
 ---

@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Unit 7: Equity and Efficiency'
+parent_type: CourseSection
 resourcetype: Image
 title: lec24.jpg
+type: OCWImage
 uid: b2a3f85a-070f-ccc8-3d5d-c972ba4a110f
 ---

@@ -8,7 +8,11 @@ image_metadata:
   caption: Is building factory infrastructure a fixed or sunk cost for a producer?
   credit: Image courtesy of AndreasPraefcke on Wikipedia.
   image-alt: ''
+learning_resource_types: []
+parent_title: Productivity and Costs
+parent_type: CourseSection
 resourcetype: Image
 title: lec09.jpg
+type: OCWImage
 uid: c70ff7c3-1f3a-a85e-e101-d596bd353a36
 ---

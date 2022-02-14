@@ -8,7 +8,11 @@ image_metadata:
   caption: The decision to nap instead of work can be analyzed by economic tools.
   credit: Image courtesy of Joi Ito on Flickr.
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Applying Consumer Theory: Labor'
+parent_type: CourseSection
 resourcetype: Image
 title: lec07.jpg
+type: OCWImage
 uid: 33f80df0-45a2-d873-690c-46d621bfe8bf
 ---

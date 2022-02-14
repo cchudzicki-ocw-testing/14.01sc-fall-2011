@@ -4,7 +4,11 @@ description: 'This resource contains graphs and figures related to applying cons
   theory: labor.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/14-01sc-principles-of-microeconomics-fall-2011/2cd9a13ca8ccbc9c6bb19c713bf52fc1_MIT14_01SCF11_graph08a.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: 'Applying Consumer Theory: Labor'
+parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_graph08a.pdf
+type: OCWFile
 uid: 2cd9a13c-a8cc-bc9c-6bb1-9c713bf52fc1
 ---

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Capital Supply and Markets I
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 21: Capital Supply and Markets I'
 uid: 7f6a63f6-3bab-1afa-29b6-7f8cafbaebbb

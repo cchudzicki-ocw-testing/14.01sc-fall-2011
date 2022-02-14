@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: 'Unit 6: Topics in Intermediate Microeconomics'
+type: CourseSection
 uid: 2b057e13-f81e-86aa-d632-c23c1074b663
 ---
 

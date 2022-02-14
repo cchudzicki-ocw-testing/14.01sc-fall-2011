@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Unit 5: Monopoly and Oligopoly'
+parent_type: CourseSection
 resourcetype: Image
 title: lec15.jpg
+type: OCWImage
 uid: 996b6c20-e243-ccb5-fa6f-630327ee1fe3
 ---

@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: 'Unit 5: Monopoly and Oligopoly'
+type: CourseSection
 uid: 51ebf007-53b9-a85a-f746-a5c03a54785d
 ---
 

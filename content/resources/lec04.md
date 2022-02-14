@@ -8,7 +8,11 @@ image_metadata:
   caption: How does each slice of pizza you consume impact your utility for the next?
   credit: Image courtesy of William Jones on Flickr.
   image-alt: ''
+learning_resource_types: []
+parent_title: Preferences and Utility
+parent_type: CourseSection
 resourcetype: Image
 title: lec04.jpg
+type: OCWImage
 uid: 6f48d646-238f-270e-2406-2afdc13b7bfd
 ---

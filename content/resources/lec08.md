@@ -11,7 +11,11 @@ image_metadata:
   credit: 'This image is a work of the US Federal Government and in the public domain.
     Source: Library of Congress.'
   image-alt: ''
+learning_resource_types: []
+parent_title: Introduction to Producer Theory
+parent_type: CourseSection
 resourcetype: Image
 title: lec08.jpg
+type: OCWImage
 uid: 4e52aa37-945e-a802-185e-3233889af156
 ---

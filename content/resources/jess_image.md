@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Meet the TAs
+parent_type: CourseSection
 resourcetype: Image
 title: jess_image.jpg
+type: OCWImage
 uid: d0ce9da3-b7d3-c62b-63bd-a660db06c4d9
 ---

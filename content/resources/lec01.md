@@ -10,7 +10,11 @@ image_metadata:
     but can be a vital tool in other decision-making situations.
   credit: Image courtesy of ninanord on Flickr.
   image-alt: A box of chocolates.
+learning_resource_types: []
+parent_title: Introduction to Microeconomics
+parent_type: CourseSection
 resourcetype: Image
 title: lec01.jpg
+type: OCWImage
 uid: a01213f3-475b-5b31-b760-5b825fba23af
 ---

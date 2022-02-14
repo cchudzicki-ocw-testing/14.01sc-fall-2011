@@ -8,7 +8,11 @@ image_metadata:
   caption: Our monetary income constrains our consumption.
   credit: Image courtesy of allison.johnston on Flickr.
   image-alt: ''
+learning_resource_types: []
+parent_title: Budget Constraints
+parent_type: CourseSection
 resourcetype: Image
 title: lec05.jpg
+type: OCWImage
 uid: 4cb70013-c1f3-6dd4-5e32-0bd8c7e4b9dc
 ---

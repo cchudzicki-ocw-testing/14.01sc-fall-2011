@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Unit 6: Topics in Intermediate Microeconomics'
+parent_type: CourseSection
 parent_uid: 2b057e13-f81e-86aa-d632-c23c1074b663
 title: International Trade
+type: CourseSection
 uid: 7c6e1dca-9e9d-7e00-1941-647141088a9a
 ---
 <p class="sc_nav">&laquo; <a class="sc_prev" href="./resolveuid/9af143892f78d160e3b7064bcdef0053">Previous</a> | <a class="sc_next" href="./resolveuid/eb20a38656314e616324268b98c9df1d">Next</a> &raquo;</p>

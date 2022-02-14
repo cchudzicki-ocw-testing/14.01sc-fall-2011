@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Applying Consumer Theory: Labor'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 8a: Applying Consumer Theory: Child Labor'
 uid: fda22a60-7972-6d64-f4fb-eb1e309d918b

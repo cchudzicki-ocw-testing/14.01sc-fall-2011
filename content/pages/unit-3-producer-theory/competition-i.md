@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Unit 3: Producer Theory'
+parent_type: CourseSection
 parent_uid: 3abe52b2-06f4-e040-5bcb-7ce684de6ae6
 title: Competition I
+type: CourseSection
 uid: c51a6858-5b2e-cbf5-8359-4f4bc69947e1
 ---
 

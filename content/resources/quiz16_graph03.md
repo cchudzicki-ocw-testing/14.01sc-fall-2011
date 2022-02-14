@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Oligopoly I
+parent_type: CourseSection
 resourcetype: Image
 title: quiz16_graph03.png
+type: OCWImage
 uid: 2bec54d0-2f34-930b-f9b6-6b80908d36c3
 ---

@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Unit 5: Monopoly and Oligopoly'
+parent_type: CourseSection
 parent_uid: 51ebf007-53b9-a85a-f746-a5c03a54785d
 title: Oligopoly I
+type: CourseSection
 uid: 2345b16d-4f54-dfc7-a811-91d1d1abbca2
 ---
 <p class="sc_nav">&laquo; <a href="./resolveuid/50af805fc0a0d661779cf0c42425f15d" class="sc_prev">Previous</a> | <a href="./resolveuid/6646396a08af4e2f2e6c5cd67f11bcf9" class="sc_next">Next</a> &raquo;</p>

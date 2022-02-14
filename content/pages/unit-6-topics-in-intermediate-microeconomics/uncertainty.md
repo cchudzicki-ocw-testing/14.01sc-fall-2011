@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Unit 6: Topics in Intermediate Microeconomics'
+parent_type: CourseSection
 parent_uid: 2b057e13-f81e-86aa-d632-c23c1074b663
 title: Uncertainty
+type: CourseSection
 uid: eb20a386-5631-4e61-6324-268b98c9df1d
 ---
 
