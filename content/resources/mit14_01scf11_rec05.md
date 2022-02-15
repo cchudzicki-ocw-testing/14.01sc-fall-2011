@@ -8,6 +8,5 @@ parent_title: Competition I
 parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_rec05.pdf
-type: OCWFile
 uid: d5e3984e-1e3d-5b5a-6798-5441ce486b66
 ---

@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: 'Unit 2: Consumer Theory'
-type: CourseSection
 uid: 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4
 ---
 

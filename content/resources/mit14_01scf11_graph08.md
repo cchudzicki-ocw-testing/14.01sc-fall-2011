@@ -8,6 +8,5 @@ parent_title: Introduction to Producer Theory
 parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_graph08.pdf
-type: OCWFile
 uid: 9c9d5892-99d8-607a-b57b-829d8117e655
 ---

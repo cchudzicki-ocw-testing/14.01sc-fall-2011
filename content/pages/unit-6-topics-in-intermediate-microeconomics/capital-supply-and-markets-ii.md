@@ -5,7 +5,6 @@ parent_title: 'Unit 6: Topics in Intermediate Microeconomics'
 parent_type: CourseSection
 parent_uid: 2b057e13-f81e-86aa-d632-c23c1074b663
 title: Capital Supply and Markets II
-type: CourseSection
 uid: 66c54ff6-d570-18af-9a41-352ad16e70f7
 ---
 

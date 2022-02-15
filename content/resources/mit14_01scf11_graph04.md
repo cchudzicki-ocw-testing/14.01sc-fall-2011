@@ -9,6 +9,5 @@ parent_title: Preferences and Utility
 parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_graph04.pdf
-type: OCWFile
 uid: cf538695-601b-cc70-02d5-6b83b00ff91e
 ---

@@ -5,7 +5,6 @@ parent_title: 'Unit 4: Welfare Economics'
 parent_type: CourseSection
 parent_uid: 74a70dbf-2813-4c7f-25ca-e0a217b6ec6f
 title: Problem Set 5
-type: CourseSection
 uid: 8853fb2e-2f47-a6f1-6c5b-5b422b69abeb
 ---
 

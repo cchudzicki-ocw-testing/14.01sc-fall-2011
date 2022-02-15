@@ -8,6 +8,5 @@ parent_title: Budget Constraints
 parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_graph05.pdf
-type: OCWFile
 uid: c636ae76-a2d3-5d9f-05e3-345286cce3b0
 ---

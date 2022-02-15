@@ -9,6 +9,5 @@ parent_title: Final Exam
 parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_review_fin.pdf
-type: OCWFile
 uid: c4f2f635-f68a-6b68-2060-2221a4eff0b7
 ---

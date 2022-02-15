@@ -12,6 +12,5 @@ parent_title: 'Unit 4: Welfare Economics'
 parent_type: CourseSection
 resourcetype: Image
 title: lec13.jpg
-type: OCWImage
 uid: 71791b27-7001-2076-ea7c-f29871eeabb5
 ---

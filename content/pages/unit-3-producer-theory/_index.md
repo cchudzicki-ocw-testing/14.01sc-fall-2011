@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: 'Unit 3: Producer Theory'
-type: CourseSection
 uid: 3abe52b2-06f4-e040-5bcb-7ce684de6ae6
 ---
 

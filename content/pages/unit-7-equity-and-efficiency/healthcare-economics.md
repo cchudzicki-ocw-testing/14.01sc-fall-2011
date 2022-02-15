@@ -5,7 +5,6 @@ parent_title: 'Unit 7: Equity and Efficiency'
 parent_type: CourseSection
 parent_uid: c94fdf90-5457-1202-c278-c37041d32e5c
 title: Healthcare Economics
-type: CourseSection
 uid: 41da8f54-7f2a-d774-baa0-e7c50d7cf9e6
 ---
 

@@ -5,7 +5,6 @@ parent_title: 'Unit 2: Consumer Theory'
 parent_type: CourseSection
 parent_uid: 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4
 title: Deriving Demand Curves
-type: CourseSection
 uid: e0983a2e-16f7-37a8-ad57-4f6bb67502e5
 ---
 

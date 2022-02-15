@@ -8,6 +8,5 @@ parent_title: Meet the TAs
 parent_type: CourseSection
 resourcetype: Other
 title: MIT14_01SCF10_intro_300k-mp4.srt
-type: OCWFile
 uid: 621dd98c-eb41-5071-9b22-d5cd7c850649
 ---

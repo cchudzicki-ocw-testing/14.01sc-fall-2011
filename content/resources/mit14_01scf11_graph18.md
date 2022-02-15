@@ -8,6 +8,5 @@ parent_title: Factor Markets
 parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_graph18.pdf
-type: OCWFile
 uid: 0e1e66ca-b31c-6155-7e4b-1e13695c6299
 ---

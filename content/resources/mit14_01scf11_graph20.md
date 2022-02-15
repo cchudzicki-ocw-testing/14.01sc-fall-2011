@@ -8,6 +8,5 @@ parent_title: Uncertainty
 parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_graph20.pdf
-type: OCWFile
 uid: c80e18e7-e410-7894-68a6-840c62ecbee2
 ---

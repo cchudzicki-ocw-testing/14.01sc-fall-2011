@@ -8,6 +8,5 @@ parent_title: Problem Set 2
 parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_assn02.pdf
-type: OCWFile
 uid: d3c8fbea-f7f9-c0e2-25b3-78eeed5983f3
 ---

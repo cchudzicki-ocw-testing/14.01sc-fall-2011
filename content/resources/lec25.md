@@ -12,6 +12,5 @@ parent_title: 'Unit 7: Equity and Efficiency'
 parent_type: CourseSection
 resourcetype: Image
 title: lec25.jpg
-type: OCWImage
 uid: bfcc3e0a-1b69-5138-82b6-23f4fcc0a8c7
 ---

@@ -13,6 +13,5 @@ parent_title: Budget Constraints
 parent_type: CourseSection
 resourcetype: Image
 title: lec05.jpg
-type: OCWImage
 uid: 4cb70013-c1f3-6dd4-5e32-0bd8c7e4b9dc
 ---

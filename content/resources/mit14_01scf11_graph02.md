@@ -8,6 +8,5 @@ parent_title: Applying Supply and Demand
 parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_graph02.pdf
-type: OCWFile
 uid: ce03508e-a91b-f5d9-3423-cb299bab5421
 ---

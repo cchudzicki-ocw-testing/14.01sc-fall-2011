@@ -8,6 +8,5 @@ parent_title: Oligopoly II
 parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_graph17.pdf
-type: OCWFile
 uid: 2db3ce21-626a-7b59-f5b7-a2d70535a8fc
 ---

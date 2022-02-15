@@ -5,7 +5,6 @@ parent_title: 'Unit 1: Supply and Demand'
 parent_type: CourseSection
 parent_uid: 10bf5cbc-f553-18ee-b099-54ff31dafc1c
 title: Introduction to Microeconomics
-type: CourseSection
 uid: b9026c77-1341-a253-b9d1-649dae571519
 ---
 

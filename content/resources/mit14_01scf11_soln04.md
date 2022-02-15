@@ -9,6 +9,5 @@ parent_title: Problem Set 4
 parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_soln04.pdf
-type: OCWFile
 uid: 4cc2789e-e904-81d4-5cd1-a12efe189b86
 ---

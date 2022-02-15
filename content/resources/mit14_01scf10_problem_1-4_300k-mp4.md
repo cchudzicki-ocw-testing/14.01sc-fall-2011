@@ -8,6 +8,5 @@ parent_title: Problem Set 1
 parent_type: CourseSection
 resourcetype: Other
 title: MIT14_01SCF10_problem_1-4_300k-mp4.srt
-type: OCWFile
 uid: 760dc849-0052-ab10-0ae9-4cb984d86fee
 ---

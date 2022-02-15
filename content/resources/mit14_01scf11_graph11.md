@@ -8,6 +8,5 @@ parent_title: Competition II
 parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_graph11.pdf
-type: OCWFile
 uid: 25f1ac02-5d14-062e-c1a2-cd564bd5a8e4
 ---

@@ -5,7 +5,6 @@ parent_title: 'Unit 1: Supply and Demand'
 parent_type: CourseSection
 parent_uid: 10bf5cbc-f553-18ee-b099-54ff31dafc1c
 title: Elasticity
-type: CourseSection
 uid: e9dacfa6-ab6f-a244-a257-57f4d8b4b4f1
 ---
 

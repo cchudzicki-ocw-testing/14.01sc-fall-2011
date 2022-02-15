@@ -9,6 +9,5 @@ parent_title: Midterm Exam 1
 parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_soln01_f07.pdf
-type: OCWFile
 uid: a8a2097a-bd60-6e23-e94e-f540accf2139
 ---

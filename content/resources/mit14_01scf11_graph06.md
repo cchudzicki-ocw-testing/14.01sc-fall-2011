@@ -9,6 +9,5 @@ parent_title: Deriving Demand Curves
 parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_graph06.pdf
-type: OCWFile
 uid: f90025ff-5e76-4c15-9e7b-a8698ff9fac5
 ---

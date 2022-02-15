@@ -9,6 +9,5 @@ parent_title: Problem Set 6
 parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_assn06.pdf
-type: OCWFile
 uid: bfd02c40-de05-ca32-7f4b-93745ccfa049
 ---

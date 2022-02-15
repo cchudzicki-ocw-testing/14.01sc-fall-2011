@@ -8,6 +8,5 @@ parent_title: Monopoly II
 parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_graph15.pdf
-type: OCWFile
 uid: 3846717b-e626-191c-bfad-d73e9f33221e
 ---

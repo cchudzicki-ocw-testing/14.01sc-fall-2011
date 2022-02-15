@@ -8,6 +8,5 @@ parent_title: Capital Supply and Markets I
 parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_graph21.pdf
-type: OCWFile
 uid: 4dc1e81d-399e-d8c8-8287-08258f152a90
 ---

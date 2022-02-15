@@ -12,6 +12,5 @@ parent_title: Deriving Demand Curves
 parent_type: CourseSection
 resourcetype: Image
 title: lec06.jpg
-type: OCWImage
 uid: fd606424-586b-15ba-0c8b-ab02c07e99b7
 ---

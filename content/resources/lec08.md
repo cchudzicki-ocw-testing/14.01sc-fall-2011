@@ -16,6 +16,5 @@ parent_title: Introduction to Producer Theory
 parent_type: CourseSection
 resourcetype: Image
 title: lec08.jpg
-type: OCWImage
 uid: 4e52aa37-945e-a802-185e-3233889af156
 ---

@@ -14,6 +14,5 @@ parent_title: Competition I
 parent_type: CourseSection
 resourcetype: Image
 title: lec10.jpg
-type: OCWImage
 uid: e570c181-4ed4-e9ed-b824-3cc8eb139b92
 ---

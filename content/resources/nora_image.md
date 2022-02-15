@@ -12,6 +12,5 @@ parent_title: Meet the TAs
 parent_type: CourseSection
 resourcetype: Image
 title: nora_image.jpg
-type: OCWImage
 uid: 49f49306-3949-6451-f482-db789d2beb23
 ---

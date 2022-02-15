@@ -12,6 +12,5 @@ parent_title: 'Unit 4: Welfare Economics'
 parent_type: CourseSection
 resourcetype: Image
 title: lec12.jpg
-type: OCWImage
 uid: ecc124ff-88cf-c639-de66-0c85f6f1e79a
 ---

@@ -15,6 +15,5 @@ parent_title: Introduction to Microeconomics
 parent_type: CourseSection
 resourcetype: Image
 title: lec01.jpg
-type: OCWImage
 uid: a01213f3-475b-5b31-b760-5b825fba23af
 ---
