@@ -4,6 +4,7 @@ description: This resource contains graphs and figures related to elasticity.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/14-01sc-principles-of-microeconomics-fall-2011/a672f1a9ca56a6b05caa742c7915bc2d_MIT14_01SCF11_graph03.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Elasticity
 parent_type: CourseSection
 resourcetype: Document

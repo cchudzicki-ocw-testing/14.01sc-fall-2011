@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of Nic Stage on Flickr.
   image-alt: Store aisle for toilet paper.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Elasticity
 parent_type: CourseSection
 resourcetype: Image

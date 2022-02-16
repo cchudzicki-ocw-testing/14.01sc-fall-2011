@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of allison.johnston on Flickr.
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Budget Constraints
 parent_type: CourseSection
 resourcetype: Image

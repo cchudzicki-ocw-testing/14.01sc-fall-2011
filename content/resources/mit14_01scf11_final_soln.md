@@ -6,6 +6,7 @@ description: 'This resource contains solutions to the problem statements related
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/14-01sc-principles-of-microeconomics-fall-2011/6c60e9cb452492f849f1d95210e28bf3_MIT14_01SCF11_final_soln.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Final Exam
 parent_type: CourseSection
 resourcetype: Document

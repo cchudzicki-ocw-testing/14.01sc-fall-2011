@@ -6,6 +6,7 @@ description: 'This resource contains 5 problem statements related to uncertainty
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/14-01sc-principles-of-microeconomics-fall-2011/44154f5290ccede02ea16124f8905bea_MIT14_01SCF11_final.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Final Exam
 parent_type: CourseSection
 resourcetype: Document

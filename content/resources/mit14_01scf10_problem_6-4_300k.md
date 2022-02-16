@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/14-01sc-principles-of-microeconomics-fall-2011/5ee42b378a14c67b2435ffec8da2a509_MIT14_01SCF10_problem_6-4_300k.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Problem Set 6
 parent_type: CourseSection
 resourcetype: Document

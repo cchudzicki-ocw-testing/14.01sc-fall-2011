@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: 'Unit 7: Equity and Efficiency'
 parent_type: CourseSection
 resourcetype: Image

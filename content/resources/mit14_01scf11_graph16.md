@@ -4,6 +4,7 @@ description: This resource contains graphs related to oligopoly I.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/14-01sc-principles-of-microeconomics-fall-2011/c88ccce808be3e7e719650baa4f7cce0_MIT14_01SCF11_graph16.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Oligopoly I
 parent_type: CourseSection
 resourcetype: Document

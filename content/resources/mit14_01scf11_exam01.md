@@ -5,6 +5,7 @@ description: This resource contains 5 problem statements related to demand, supp
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/14-01sc-principles-of-microeconomics-fall-2011/0454bc30df1666fe266f0a3353c0c633_MIT14_01SCF11_exam01.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Midterm Exam 1
 parent_type: CourseSection
 resourcetype: Document
