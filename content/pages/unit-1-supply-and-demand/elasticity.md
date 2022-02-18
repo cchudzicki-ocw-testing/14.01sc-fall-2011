@@ -9,7 +9,7 @@ title: Elasticity
 uid: e9dacfa6-ab6f-a244-a257-57f4d8b4b4f1
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-1-supply-and-demand/applying-supply-and-demand) | [Next]({{< baseurl >}}/pages/unit-1-supply-and-demand/problem-set-1) »
+« {{< resource_link bf5626a7-d48d-d3b2-58c6-78a13912ef84 "Previous" >}} | {{< resource_link 4cecca62-a7b9-486b-1e1d-45d54b8e504b "Next" >}} »
 
 Session Overview
 ----------------
@@ -17,7 +17,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Store aisle for toilet paper.]({{< resource_file a7c93a92-917a-7f31-1c28-246dfe73a021 >}})
+{{< resource a7c93a92-917a-7f31-1c28-246dfe73a021 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -51,7 +51,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   [Graphs and Figures (PDF)]({{< baseurl >}}/resources/mit14_01scf11_graph03)
+*   {{< resource_link a672f1a9-ca56-a6b0-5caa-742c7915bc2d "Graphs and Figures (PDF)" >}}
 
 Further Study
 -------------
@@ -75,4 +75,4 @@ See the \[Perloff\] chapter for the topics covered, as well as quizzes, applicat
 
 *   [Chapter 3](http://geneseo.edu/~stone/perloff3.pdf)
 
-« [Previous]({{< baseurl >}}/pages/unit-1-supply-and-demand/applying-supply-and-demand) | [Next]({{< baseurl >}}/pages/unit-1-supply-and-demand/problem-set-1) »
+« {{< resource_link bf5626a7-d48d-d3b2-58c6-78a13912ef84 "Previous" >}} | {{< resource_link 4cecca62-a7b9-486b-1e1d-45d54b8e504b "Next" >}} »

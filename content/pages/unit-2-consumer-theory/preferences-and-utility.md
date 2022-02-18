@@ -9,7 +9,7 @@ title: Preferences and Utility
 uid: eba60351-486e-4457-3f84-ae3b47789fde
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2-consumer-theory) | [Next]({{< baseurl >}}/pages/unit-2-consumer-theory/budget-constraints) »
+« {{< resource_link 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4 "Previous" >}} | {{< resource_link 0c0a7957-a70d-ea1c-20bc-11996dd1090c "Next" >}} »
 
 Session Overview
 ----------------
@@ -42,7 +42,7 @@ Session Activities
 
 Read the recitation notes, which cover new content that adds to and supplements the material covered in lecture.
 
-*   [Recitation: Calculating Elasticities (PDF)]({{< baseurl >}}/resources/mit14_01scf11_rec02)
+*   {{< resource_link 32e74182-abe7-3c0c-2035-508b67c2d040 "Recitation: Calculating Elasticities (PDF)" >}}
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
@@ -55,7 +55,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   [Graphs and Figures (PDF)]({{< baseurl >}}/resources/mit14_01scf11_graph04)
+*   {{< resource_link cf538695-601b-cc70-02d5-6b83b00ff91e "Graphs and Figures (PDF)" >}}
 
 Check Yourself
 --------------
@@ -123,4 +123,4 @@ Alternative notes with an advanced theoretical approach.
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-2-consumer-theory) | [Next]({{< baseurl >}}/pages/unit-2-consumer-theory/budget-constraints) »
+« {{< resource_link 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4 "Previous" >}} | {{< resource_link 0c0a7957-a70d-ea1c-20bc-11996dd1090c "Next" >}} »

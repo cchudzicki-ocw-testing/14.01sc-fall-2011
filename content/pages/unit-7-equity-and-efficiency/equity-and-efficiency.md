@@ -9,7 +9,7 @@ title: Equity and Efficiency
 uid: 1b95348a-7b79-a798-d635-6d4376464c0d
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-7-equity-and-efficiency) | [Next]({{< baseurl >}}/pages/unit-7-equity-and-efficiency/government-redistribution-policy) »
+« {{< resource_link c94fdf90-5457-1202-c278-c37041d32e5c "Previous" >}} | {{< resource_link b3df4706-2059-ac3f-7af8-8832de93e0fb "Next" >}} »
 
 Session Overview
 ----------------
@@ -17,7 +17,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![lec23.jpg]({{< resource_file aa60c06e-484e-aa47-2672-abfc445b1d6c >}})
+{{< resource aa60c06e-484e-aa47-2672-abfc445b1d6c >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -51,7 +51,7 @@ Before watching the Lecture Video, read the course textbook for an introduction 
 
 ### Resources
 
-*   [Graphs and Figures (PDF)]({{< baseurl >}}/resources/mit14_01scf11_graph23)
+*   {{< resource_link d00f6be0-00ad-e00a-451d-f1a0d5417821 "Graphs and Figures (PDF)" >}}
 
 Check Yourself
 --------------
@@ -76,4 +76,4 @@ See the course website for [Econ 302](http://econ302.wikidot.com/general-equilib
 
 *   [Chapter 10](http://econ302.wikidot.com/general-equilibrium)
 
-« [Previous]({{< baseurl >}}/pages/unit-7-equity-and-efficiency) | [Next]({{< baseurl >}}/pages/unit-7-equity-and-efficiency/government-redistribution-policy) »
+« {{< resource_link c94fdf90-5457-1202-c278-c37041d32e5c "Previous" >}} | {{< resource_link b3df4706-2059-ac3f-7af8-8832de93e0fb "Next" >}} »

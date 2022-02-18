@@ -9,7 +9,7 @@ title: Budget Constraints
 uid: 0c0a7957-a70d-ea1c-20bc-11996dd1090c
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2-consumer-theory/preferences-and-utility) | [Next]({{< baseurl >}}/pages/unit-2-consumer-theory/problem-set-2) »
+« {{< resource_link eba60351-486e-4457-3f84-ae3b47789fde "Previous" >}} | {{< resource_link de42bac0-72e1-09a5-022b-9104454d56da "Next" >}} »
 
 Session Overview
 ----------------
@@ -17,7 +17,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![lec05.jpg]({{< resource_file 4cb70013-c1f3-6dd4-5e32-0bd8c7e4b9dc >}})
+{{< resource 4cb70013-c1f3-6dd4-5e32-0bd8c7e4b9dc >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -51,7 +51,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   [Graphs and Figures (PDF)]({{< baseurl >}}/resources/mit14_01scf11_graph05)
+*   {{< resource_link c636ae76-a2d3-5d9f-05e3-345286cce3b0 "Graphs and Figures (PDF)" >}}
 
 Check Yourself
 --------------
@@ -82,4 +82,4 @@ See the \[Perloff\] chapter for the topics covered, as well as quizzes, applicat
 
 *   [Chapter 4](http://faculty.bcitbusiness.ca/KevinW/6500/Perloff/04M_Perloff_8008884_02_Micro_C04.pdf)
 
-« [Previous]({{< baseurl >}}/pages/unit-2-consumer-theory/preferences-and-utility) | [Next]({{< baseurl >}}/pages/unit-2-consumer-theory/problem-set-2) »
+« {{< resource_link eba60351-486e-4457-3f84-ae3b47789fde "Previous" >}} | {{< resource_link de42bac0-72e1-09a5-022b-9104454d56da "Next" >}} »

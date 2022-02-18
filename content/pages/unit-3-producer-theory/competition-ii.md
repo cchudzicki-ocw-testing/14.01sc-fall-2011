@@ -9,7 +9,7 @@ title: Competition II
 uid: 032b458b-15b1-6f20-7453-36ff876c9f66
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-3-producer-theory/problem-set-4) | [Next]({{< baseurl >}}/pages/unit-4-welfare-economics) »
+« {{< resource_link 7202f9bf-94b4-33fc-7f69-0ef73b511c93 "Previous" >}} | {{< resource_link 74a70dbf-2813-4c7f-25ca-e0a217b6ec6f "Next" >}} »
 
 Session Overview
 ----------------
@@ -17,7 +17,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![lec11.jpg]({{< resource_file 5015a270-b1c6-157c-f6ae-2a1bbbffe87c >}})
+{{< resource 5015a270-b1c6-157c-f6ae-2a1bbbffe87c >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -42,7 +42,7 @@ Session Activities
 
 Read the recitation notes, which cover new content that adds to and supplements the material covered in lecture.
 
-*   [Recitation: Economics of Scale (PDF)]({{< baseurl >}}/resources/mit14_01scf11_rec06)
+*   {{< resource_link 63880fbb-bf6d-d47e-bfdf-934a25c02a0c "Recitation: Economics of Scale (PDF)" >}}
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
@@ -55,7 +55,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   [Graphs and Figures (PDF)]({{< baseurl >}}/resources/mit14_01scf11_graph11)
+*   {{< resource_link 25f1ac02-5d14-062e-c1a2-cd564bd5a8e4 "Graphs and Figures (PDF)" >}}
 
 Check Yourself
 --------------
@@ -75,4 +75,4 @@ This concept quiz covers key vocabulary terms and also tests your intuitive unde
 ##### Question 5
  {{< quiz_multiple_choice questionId="MCQ5" >}} Which of the following is a reason that the long-run supply curve may not be flat and may instead be upward-sloping? {{< quiz_choices >}} {{< quiz_choice isCorrect="true" >}}All of these.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Entry is limited.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Firms are different (i.e., some have lower costs than others).{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Input prices increase with output.{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution >}}All of these factors will contribute to a failure of the mechanism by which competition leads to cost minimization in the long-run, and thus will generate an upward-sloping supply curve.{{< /quiz_solution >}} {{< /quiz_multiple_choice >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-3-producer-theory/problem-set-4) | [Next]({{< baseurl >}}/pages/unit-4-welfare-economics) »
+« {{< resource_link 7202f9bf-94b4-33fc-7f69-0ef73b511c93 "Previous" >}} | {{< resource_link 74a70dbf-2813-4c7f-25ca-e0a217b6ec6f "Next" >}} »

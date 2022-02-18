@@ -9,7 +9,7 @@ title: Introduction to Microeconomics
 uid: b9026c77-1341-a253-b9d1-649dae571519
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-1-supply-and-demand) | [Next]({{< baseurl >}}/pages/unit-1-supply-and-demand/applying-supply-and-demand) »
+« {{< resource_link 10bf5cbc-f553-18ee-b099-54ff31dafc1c "Previous" >}} | {{< resource_link bf5626a7-d48d-d3b2-58c6-78a13912ef84 "Next" >}} »
 
 Session Overview
 ----------------
@@ -17,7 +17,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![A box of chocolates.]({{< resource_file a01213f3-475b-5b31-b760-5b825fba23af >}})
+{{< resource a01213f3-475b-5b31-b760-5b825fba23af >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -67,4 +67,4 @@ This concept quiz covers key vocabulary terms and also tests your intuitive unde
 ##### Question 5
  {{< quiz_multiple_choice questionId="MCQ5" >}} Which of the following statements represents normative, rather than positive analysis? {{< quiz_choices >}} {{< quiz_choice isCorrect="true" >}}People should not be allowed to purchase bodily organs, because it allows the rich access to a life-saving procedure that the poor may not have access to.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Since the supply of gems is limited, their price is very high.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Since the supply of water is very large, the price of water is very low.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}The demand for organ transplants currently far exceeds the supply.{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution >}}This is a normative statement that is based on an assumption of equity (we want rich and poor to have equal access to treatment.) The others answers are positive statements that are based on facts about the supply and demand of goods in different markets.{{< /quiz_solution >}} {{< /quiz_multiple_choice >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-1-supply-and-demand) | [Next]({{< baseurl >}}/pages/unit-1-supply-and-demand/applying-supply-and-demand) »
+« {{< resource_link 10bf5cbc-f553-18ee-b099-54ff31dafc1c "Previous" >}} | {{< resource_link bf5626a7-d48d-d3b2-58c6-78a13912ef84 "Next" >}} »

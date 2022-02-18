@@ -9,7 +9,7 @@ title: Monopoly II
 uid: 50af805f-c0a0-d661-779c-f0c42425f15d
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-5-monopoly-and-oligopoly/problem-set-6) | [Next]({{< baseurl >}}/pages/unit-5-monopoly-and-oligopoly/oligopoly-i) »
+« {{< resource_link 63a175ea-2f4e-7188-fe6e-df59d477548c "Previous" >}} | {{< resource_link 2345b16d-4f54-dfc7-a811-91d1d1abbca2 "Next" >}} »
 
 Session Overview
 ----------------
@@ -17,7 +17,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![lec15.jpg]({{< resource_file 996b6c20-e243-ccb5-fa6f-630327ee1fe3 >}})
+{{< resource 996b6c20-e243-ccb5-fa6f-630327ee1fe3 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -42,7 +42,7 @@ Session Activities
 
 Read the recitation notes, which cover new content that adds to and supplements the material covered in lecture.
 
-*   [Recitation: Price Ceilings and Price Floors (PDF)]({{< baseurl >}}/resources/mit14_01scf11_rec08)
+*   {{< resource_link 02fed213-58a6-4601-ee53-2821383a3b78 "Recitation: Price Ceilings and Price Floors (PDF)" >}}
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
@@ -56,7 +56,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   [Graphs and Figures (PDF)]({{< baseurl >}}/resources/mit14_01scf11_graph15)
+*   {{< resource_link 3846717b-e626-191c-bfad-d73e9f33221e "Graphs and Figures (PDF)" >}}
 
 Check Yourself
 --------------
@@ -85,4 +85,4 @@ See the \[Perloff\] chapter for the topics covered, as well as quizzes, applicat
 
 *   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Chapter 11 (PDF - 1.6MB)](http://faculty.bcitbusiness.ca/KevinW/6500/Perloff/11M_Perloff_8008884_02_Micro_C11.pdf)
 
-« [Previous]({{< baseurl >}}/pages/unit-5-monopoly-and-oligopoly/problem-set-6) | [Next]({{< baseurl >}}/pages/unit-5-monopoly-and-oligopoly/oligopoly-i) »
+« {{< resource_link 63a175ea-2f4e-7188-fe6e-df59d477548c "Previous" >}} | {{< resource_link 2345b16d-4f54-dfc7-a811-91d1d1abbca2 "Next" >}} »

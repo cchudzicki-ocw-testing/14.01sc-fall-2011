@@ -9,7 +9,7 @@ title: 'Applying Consumer Theory: Labor'
 uid: 52d96c2f-56aa-990b-e3ea-69526d59464b
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2-consumer-theory/deriving-demand-curves) | [Next]({{< baseurl >}}/pages/unit-2-consumer-theory/problem-set-3) »
+« {{< resource_link e0983a2e-16f7-37a8-ad57-4f6bb67502e5 "Previous" >}} | {{< resource_link 5be371bb-9c4f-36b1-f197-043fc0d6cab4 "Next" >}} »
 
 Session Overview
 ----------------
@@ -17,7 +17,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![lec07.jpg]({{< resource_file 33f80df0-45a2-d873-690c-46d621bfe8bf >}})
+{{< resource 33f80df0-45a2-d873-690c-46d621bfe8bf >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -54,8 +54,8 @@ The lecture video for this session consists of two parts.
 
 ### Resources
 
-*   [Graphs and Figures (PDF)]({{< baseurl >}}/resources/mit14_01scf11_graph07)
-*   [Tables (PDF)]({{< baseurl >}}/resources/mit14_01scf11_table07)
+*   {{< resource_link d272b420-c017-1f47-cd3e-dcb5b9cab225 "Graphs and Figures (PDF)" >}}
+*   {{< resource_link 81a05ac0-27a6-510a-90f5-01c621061571 "Tables (PDF)" >}}
 
 *   {{< resource fda22a60-7972-6d64-f4fb-eb1e309d918b >}}
 
@@ -71,7 +71,7 @@ Application of Income and Substitution Effects: Child Labor
 
 ### Resources
 
-*   [Graphs and Figures (PDF)]({{< baseurl >}}/resources/mit14_01scf11_graph08a)
+*   {{< resource_link 2cd9a13c-a8cc-bc9c-6bb1-9c713bf52fc1 "Graphs and Figures (PDF)" >}}
 
 Check Yourself
 --------------
@@ -133,4 +133,4 @@ An in-depth course on labor economics.
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-2-consumer-theory/deriving-demand-curves) | [Next]({{< baseurl >}}/pages/unit-2-consumer-theory/problem-set-3) »
+« {{< resource_link e0983a2e-16f7-37a8-ad57-4f6bb67502e5 "Previous" >}} | {{< resource_link 5be371bb-9c4f-36b1-f197-043fc0d6cab4 "Next" >}} »

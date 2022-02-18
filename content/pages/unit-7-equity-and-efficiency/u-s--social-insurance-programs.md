@@ -9,7 +9,7 @@ title: U.S. Social Insurance Programs
 uid: 7846c5e3-1518-5524-02f1-19e7b530b4bd
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-7-equity-and-efficiency/problem-set-9) | [Next]({{< baseurl >}}/pages/unit-7-equity-and-efficiency/healthcare-economics) »
+« {{< resource_link c2b37480-348d-c949-387b-11748d4a62b0 "Previous" >}} | {{< resource_link 41da8f54-7f2a-d774-baa0-e7c50d7cf9e6 "Next" >}} »
 
 Session Overview
 ----------------
@@ -17,7 +17,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![lec25.jpg]({{< resource_file bfcc3e0a-1b69-5138-82b6-23f4fcc0a8c7 >}})
+{{< resource bfcc3e0a-1b69-5138-82b6-23f4fcc0a8c7 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -100,4 +100,4 @@ An in-depth course on the government’s role in the economy.
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-7-equity-and-efficiency/problem-set-9) | [Next]({{< baseurl >}}/pages/unit-7-equity-and-efficiency/healthcare-economics) »
+« {{< resource_link c2b37480-348d-c949-387b-11748d4a62b0 "Previous" >}} | {{< resource_link 41da8f54-7f2a-d774-baa0-e7c50d7cf9e6 "Next" >}} »

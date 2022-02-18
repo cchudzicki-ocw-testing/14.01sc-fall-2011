@@ -9,7 +9,7 @@ title: Applying Supply and Demand
 uid: bf5626a7-d48d-d3b2-58c6-78a13912ef84
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-1-supply-and-demand/introduction-to-microeconomics) | [Next]({{< baseurl >}}/pages/unit-1-supply-and-demand/elasticity) »
+« {{< resource_link b9026c77-1341-a253-b9d1-649dae571519 "Previous" >}} | {{< resource_link e9dacfa6-ab6f-a244-a257-57f4d8b4b4f1 "Next" >}} »
 
 Session Overview
 ----------------
@@ -17,7 +17,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Gasoline prices.]({{< resource_file 4d900c8c-4d92-e21c-c8fc-835a4eede65d >}})
+{{< resource 4d900c8c-4d92-e21c-c8fc-835a4eede65d >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -42,7 +42,7 @@ Session Activities
 
 Read the recitation notes, which cover new content that adds to and supplements the material covered in lecture.
 
-*   [Recitation: Supply-Demand Analysis (PDF)]({{< baseurl >}}/resources/mit14_01scf11_rec01)
+*   {{< resource_link 5c67b871-8ff5-5091-c19b-47d15136dc53 "Recitation: Supply-Demand Analysis (PDF)" >}}
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
@@ -56,7 +56,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   [Graphs and Figures (PDF)]({{< baseurl >}}/resources/mit14_01scf11_graph02)
+*   {{< resource_link ce03508e-a91b-f5d9-3423-cb299bab5421 "Graphs and Figures (PDF)" >}}
 
 Further Study
 -------------
@@ -78,4 +78,4 @@ These optional resources are provided for students that wish to explore this top
 
 See the course website for [Econ 302](http://econ302.wikidot.com/supply-and-demand), Intermediate Microeconomics taught at Penn State in 2011. 
 
-« [Previous]({{< baseurl >}}/pages/unit-1-supply-and-demand/introduction-to-microeconomics) | [Next]({{< baseurl >}}/pages/unit-1-supply-and-demand/elasticity) »
+« {{< resource_link b9026c77-1341-a253-b9d1-649dae571519 "Previous" >}} | {{< resource_link e9dacfa6-ab6f-a244-a257-57f4d8b4b4f1 "Next" >}} »
