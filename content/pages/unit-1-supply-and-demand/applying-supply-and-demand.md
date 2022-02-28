@@ -48,7 +48,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 *   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 3, "Demand and Supply."
 *   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 4, "Applications of Demand and Supply." Sections 4.1-4.2.
-*   \[[Perloff]({{< baseurl >}}/pages/syllabus#_Perloff_)\] Chapter 2, "Supply and Demand." (optional)
+*   \[{{< resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" >}}\] Chapter 2, "Supply and Demand." (optional)
 
 ### Lecture Videos
 

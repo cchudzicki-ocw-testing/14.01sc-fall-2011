@@ -47,7 +47,7 @@ Read the recitation notes, which cover new content that adds to and supplements 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
 *   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 6, "Markets, Maximizers, and Efficiency."
-*   \[[Perloff]({{< baseurl >}}/pages/syllabus#_Perloff_)\] Chapter 9, "Welfare Economics." (optional)
+*   \[{{< resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" >}}\] Chapter 9, "Welfare Economics." (optional)
 
 ### Lecture Videos
 

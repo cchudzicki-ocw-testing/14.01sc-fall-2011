@@ -47,7 +47,7 @@ Read the recitation notes, which cover new content that adds to and supplements 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
 *   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 11, "The World of Imperfect Competition."
-*   \[[Perloff]({{< baseurl >}}/pages/syllabus#_Perloff_)\] Chapter 12, "Pricing and Advertising." (optional)
+*   \[{{< resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" >}}\] Chapter 12, "Pricing and Advertising." (optional)
 
 ### Lecture Videos
 

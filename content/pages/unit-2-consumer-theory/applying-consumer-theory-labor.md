@@ -44,7 +44,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 *   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 7, "The Analysis of Consumer Choice." Sections 7.2.
 *   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 12, "Wages and Employment in Perfect Competition."
-*   \[[Perloff]({{< baseurl >}}/pages/syllabus#_Perloff_)\] Chapter 5, "Applying Consumer Theory." (optional)
+*   \[{{< resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" >}}\] Chapter 5, "Applying Consumer Theory." (optional)
 
 ### Lecture Videos
 

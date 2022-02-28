@@ -48,7 +48,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 *   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 10, "Monopoly."
 *   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 16, "Antitrust Policy and Business Regulation."
-*   \[[Perloff]({{< baseurl >}}/pages/syllabus#_Perloff_)\] Chapter 11, "Monopoly." (optional)
+*   \[{{< resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" >}}\] Chapter 11, "Monopoly." (optional)
 
 ### Lecture Videos
 
