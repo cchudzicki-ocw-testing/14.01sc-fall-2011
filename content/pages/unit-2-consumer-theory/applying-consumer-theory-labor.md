@@ -9,7 +9,7 @@ title: 'Applying Consumer Theory: Labor'
 uid: 52d96c2f-56aa-990b-e3ea-69526d59464b
 ---
 
-« {{< resource_link e0983a2e-16f7-37a8-ad57-4f6bb67502e5 "Previous" >}} | {{< resource_link 5be371bb-9c4f-36b1-f197-043fc0d6cab4 "Next" >}} »
+« {{% resource_link e0983a2e-16f7-37a8-ad57-4f6bb67502e5 "Previous" %}} | {{% resource_link 5be371bb-9c4f-36b1-f197-043fc0d6cab4 "Next" %}} »
 
 Session Overview
 ----------------
@@ -44,7 +44,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 *   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 7, "The Analysis of Consumer Choice." Sections 7.2.
 *   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 12, "Wages and Employment in Perfect Competition."
-*   \[{{< resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" >}}\] Chapter 5, "Applying Consumer Theory." (optional)
+*   \[{{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" %}}\] Chapter 5, "Applying Consumer Theory." (optional)
 
 ### Lecture Videos
 
@@ -54,8 +54,8 @@ The lecture video for this session consists of two parts.
 
 ### Resources
 
-*   {{< resource_link d272b420-c017-1f47-cd3e-dcb5b9cab225 "Graphs and Figures (PDF)" >}}
-*   {{< resource_link 81a05ac0-27a6-510a-90f5-01c621061571 "Tables (PDF)" >}}
+*   {{% resource_link d272b420-c017-1f47-cd3e-dcb5b9cab225 "Graphs and Figures (PDF)" %}}
+*   {{% resource_link 81a05ac0-27a6-510a-90f5-01c621061571 "Tables (PDF)" %}}
 
 *   {{< resource fda22a60-7972-6d64-f4fb-eb1e309d918b >}}
 
@@ -71,7 +71,7 @@ Application of Income and Substitution Effects: Child Labor
 
 ### Resources
 
-*   {{< resource_link 2cd9a13c-a8cc-bc9c-6bb1-9c713bf52fc1 "Graphs and Figures (PDF)" >}}
+*   {{% resource_link 2cd9a13c-a8cc-bc9c-6bb1-9c713bf52fc1 "Graphs and Figures (PDF)" %}}
 
 Check Yourself
 --------------
@@ -133,4 +133,4 @@ An in-depth course on labor economics.
 
 {{< tableclose >}}
 
-« {{< resource_link e0983a2e-16f7-37a8-ad57-4f6bb67502e5 "Previous" >}} | {{< resource_link 5be371bb-9c4f-36b1-f197-043fc0d6cab4 "Next" >}} »
+« {{% resource_link e0983a2e-16f7-37a8-ad57-4f6bb67502e5 "Previous" %}} | {{% resource_link 5be371bb-9c4f-36b1-f197-043fc0d6cab4 "Next" %}} »

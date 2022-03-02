@@ -6,7 +6,7 @@ title: 'Unit 1: Supply and Demand'
 uid: 10bf5cbc-f553-18ee-b099-54ff31dafc1c
 ---
 
-« {{< resource_link f0b3ed7c-dca2-a26b-75e3-53d084b146b2 "Previous" >}} | {{< resource_link b9026c77-1341-a253-b9d1-649dae571519 "Next" >}} »
+« {{% resource_link f0b3ed7c-dca2-a26b-75e3-53d084b146b2 "Previous" %}} | {{% resource_link b9026c77-1341-a253-b9d1-649dae571519 "Next" %}} »
 
 The first unit of this course is designed to introduce you to the principles of microeconomics and familiarize you with supply and demand diagrams, the most basic tool economists employ to analyze shifts in the economy. After completing this unit, you will be able to understand shifts in supply and demand and their implications for price and quantity sold. You will also learn how to analyze how consumers respond to a shift in the price of the goods they consume. This understanding of the basic forces of supply and demand will serve as a foundation for the economic analysis you will undertake in the remainder of this course.
 
@@ -18,7 +18,7 @@ The first unit of this course is designed to introduce you to the principles of 
 {{< tdopen >}}
 
 
-  {{< resource_link b9026c77-1341-a253-b9d1-649dae571519 "Introduction to Microeconomics" >}}
+  {{% resource_link b9026c77-1341-a253-b9d1-649dae571519 "Introduction to Microeconomics" %}}
 
   _Image courtesy of_ [_ninanord_](http://www.flickr.com/photos/ninsvims/3264175368/) _on Flickr._
 
@@ -34,7 +34,7 @@ The first unit of this course is designed to introduce you to the principles of 
 {{< tdopen >}}
 
 
-  {{< resource_link bf5626a7-d48d-d3b2-58c6-78a13912ef84 "Applying Supply and Demand" >}}
+  {{% resource_link bf5626a7-d48d-d3b2-58c6-78a13912ef84 "Applying Supply and Demand" %}}
 
   _Image courtesy of_ [_Aaron Tyo-Dikerson_](http://www.flickr.com/photos/tyodickerson/39826870/) _on Flickr._
 
@@ -50,7 +50,7 @@ The first unit of this course is designed to introduce you to the principles of 
 {{< tdopen >}}
 
 
-  {{< resource_link e9dacfa6-ab6f-a244-a257-57f4d8b4b4f1 "Elasticity" >}}
+  {{% resource_link e9dacfa6-ab6f-a244-a257-57f4d8b4b4f1 "Elasticity" %}}
 
   _Image courtesy of_ [_Nic Stage_](http://www.flickr.com/photos/nic-stage/4321461836/in/photostream/) _on Flickr._
 
@@ -61,4 +61,4 @@ The first unit of this course is designed to introduce you to the principles of 
 
 {{< tableclose >}}
 
-« {{< resource_link f0b3ed7c-dca2-a26b-75e3-53d084b146b2 "Previous" >}} | {{< resource_link b9026c77-1341-a253-b9d1-649dae571519 "Next" >}} »
+« {{% resource_link f0b3ed7c-dca2-a26b-75e3-53d084b146b2 "Previous" %}} | {{% resource_link b9026c77-1341-a253-b9d1-649dae571519 "Next" %}} »

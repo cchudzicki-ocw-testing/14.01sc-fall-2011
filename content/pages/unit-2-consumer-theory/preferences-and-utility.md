@@ -9,7 +9,7 @@ title: Preferences and Utility
 uid: eba60351-486e-4457-3f84-ae3b47789fde
 ---
 
-« {{< resource_link 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4 "Previous" >}} | {{< resource_link 0c0a7957-a70d-ea1c-20bc-11996dd1090c "Next" >}} »
+« {{% resource_link 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4 "Previous" %}} | {{% resource_link 0c0a7957-a70d-ea1c-20bc-11996dd1090c "Next" %}} »
 
 Session Overview
 ----------------
@@ -42,7 +42,7 @@ Session Activities
 
 Read the recitation notes, which cover new content that adds to and supplements the material covered in lecture.
 
-*   {{< resource_link 32e74182-abe7-3c0c-2035-508b67c2d040 "Recitation: Calculating Elasticities (PDF)" >}}
+*   {{% resource_link 32e74182-abe7-3c0c-2035-508b67c2d040 "Recitation: Calculating Elasticities (PDF)" %}}
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
@@ -55,7 +55,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   {{< resource_link cf538695-601b-cc70-02d5-6b83b00ff91e "Graphs and Figures (PDF)" >}}
+*   {{% resource_link cf538695-601b-cc70-02d5-6b83b00ff91e "Graphs and Figures (PDF)" %}}
 
 Check Yourself
 --------------
@@ -123,4 +123,4 @@ Alternative notes with an advanced theoretical approach.
 
 {{< tableclose >}}
 
-« {{< resource_link 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4 "Previous" >}} | {{< resource_link 0c0a7957-a70d-ea1c-20bc-11996dd1090c "Next" >}} »
+« {{% resource_link 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4 "Previous" %}} | {{% resource_link 0c0a7957-a70d-ea1c-20bc-11996dd1090c "Next" %}} »

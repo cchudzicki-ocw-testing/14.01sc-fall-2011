@@ -9,7 +9,7 @@ title: Introduction to Microeconomics
 uid: b9026c77-1341-a253-b9d1-649dae571519
 ---
 
-« {{< resource_link 10bf5cbc-f553-18ee-b099-54ff31dafc1c "Previous" >}} | {{< resource_link bf5626a7-d48d-d3b2-58c6-78a13912ef84 "Next" >}} »
+« {{% resource_link 10bf5cbc-f553-18ee-b099-54ff31dafc1c "Previous" %}} | {{% resource_link bf5626a7-d48d-d3b2-58c6-78a13912ef84 "Next" %}} »
 
 Session Overview
 ----------------
@@ -43,7 +43,7 @@ Session Activities
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
 *   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 1, "Economics: The Study of Choice."
-*   \[{{< resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" >}}\] Chapter 1, "Introduction." (optional)
+*   \[{{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" %}}\] Chapter 1, "Introduction." (optional)
 
 ### Lecture Videos
 
@@ -67,4 +67,4 @@ This concept quiz covers key vocabulary terms and also tests your intuitive unde
 ##### Question 5
  {{< quiz_multiple_choice questionId="MCQ5" >}} Which of the following statements represents normative, rather than positive analysis? {{< quiz_choices >}} {{< quiz_choice isCorrect="true" >}}People should not be allowed to purchase bodily organs, because it allows the rich access to a life-saving procedure that the poor may not have access to.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Since the supply of gems is limited, their price is very high.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Since the supply of water is very large, the price of water is very low.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}The demand for organ transplants currently far exceeds the supply.{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution >}}This is a normative statement that is based on an assumption of equity (we want rich and poor to have equal access to treatment.) The others answers are positive statements that are based on facts about the supply and demand of goods in different markets.{{< /quiz_solution >}} {{< /quiz_multiple_choice >}}
 
-« {{< resource_link 10bf5cbc-f553-18ee-b099-54ff31dafc1c "Previous" >}} | {{< resource_link bf5626a7-d48d-d3b2-58c6-78a13912ef84 "Next" >}} »
+« {{% resource_link 10bf5cbc-f553-18ee-b099-54ff31dafc1c "Previous" %}} | {{% resource_link bf5626a7-d48d-d3b2-58c6-78a13912ef84 "Next" %}} »

@@ -9,7 +9,7 @@ title: Elasticity
 uid: e9dacfa6-ab6f-a244-a257-57f4d8b4b4f1
 ---
 
-« {{< resource_link bf5626a7-d48d-d3b2-58c6-78a13912ef84 "Previous" >}} | {{< resource_link 4cecca62-a7b9-486b-1e1d-45d54b8e504b "Next" >}} »
+« {{% resource_link bf5626a7-d48d-d3b2-58c6-78a13912ef84 "Previous" %}} | {{% resource_link 4cecca62-a7b9-486b-1e1d-45d54b8e504b "Next" %}} »
 
 Session Overview
 ----------------
@@ -43,7 +43,7 @@ Session Activities
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
 *   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 5, "Elasticity: A Measure of Response."
-*   \[{{< resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" >}}\] Chapter 3, "Applying the Supply-and-Demand Model." (optional)
+*   \[{{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" %}}\] Chapter 3, "Applying the Supply-and-Demand Model." (optional)
 
 ### Lecture Videos
 
@@ -51,7 +51,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   {{< resource_link a672f1a9-ca56-a6b0-5caa-742c7915bc2d "Graphs and Figures (PDF)" >}}
+*   {{% resource_link a672f1a9-ca56-a6b0-5caa-742c7915bc2d "Graphs and Figures (PDF)" %}}
 
 Further Study
 -------------
@@ -75,4 +75,4 @@ See the \[Perloff\] chapter for the topics covered, as well as quizzes, applicat
 
 *   [Chapter 3](http://geneseo.edu/~stone/perloff3.pdf)
 
-« {{< resource_link bf5626a7-d48d-d3b2-58c6-78a13912ef84 "Previous" >}} | {{< resource_link 4cecca62-a7b9-486b-1e1d-45d54b8e504b "Next" >}} »
+« {{% resource_link bf5626a7-d48d-d3b2-58c6-78a13912ef84 "Previous" %}} | {{% resource_link 4cecca62-a7b9-486b-1e1d-45d54b8e504b "Next" %}} »

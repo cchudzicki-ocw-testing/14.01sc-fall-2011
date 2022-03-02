@@ -9,7 +9,7 @@ title: Government Redistribution Policy
 uid: b3df4706-2059-ac3f-7af8-8832de93e0fb
 ---
 
-« {{< resource_link 1b95348a-7b79-a798-d635-6d4376464c0d "Previous" >}} | {{< resource_link c2b37480-348d-c949-387b-11748d4a62b0 "Next" >}} »
+« {{% resource_link 1b95348a-7b79-a798-d635-6d4376464c0d "Previous" %}} | {{% resource_link c2b37480-348d-c949-387b-11748d4a62b0 "Next" %}} »
 
 Session Overview
 ----------------
@@ -50,7 +50,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   {{< resource_link 209d89bd-7793-854a-409f-9477cafc38c7 "Graphs and Figures (PDF)" >}}
+*   {{% resource_link 209d89bd-7793-854a-409f-9477cafc38c7 "Graphs and Figures (PDF)" %}}
 
 Check Yourself
 --------------
@@ -102,4 +102,4 @@ An in-depth course on the government’s role in the economy.
 
 {{< tableclose >}}
 
-« {{< resource_link 1b95348a-7b79-a798-d635-6d4376464c0d "Previous" >}} | {{< resource_link c2b37480-348d-c949-387b-11748d4a62b0 "Next" >}} »
+« {{% resource_link 1b95348a-7b79-a798-d635-6d4376464c0d "Previous" %}} | {{% resource_link c2b37480-348d-c949-387b-11748d4a62b0 "Next" %}} »

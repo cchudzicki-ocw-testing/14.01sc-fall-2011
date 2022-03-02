@@ -9,7 +9,7 @@ title: Uncertainty
 uid: eb20a386-5631-4e61-6324-268b98c9df1d
 ---
 
-« {{< resource_link 7c6e1dca-9e9d-7e00-1941-647141088a9a "Previous" >}} | {{< resource_link 47ca36a0-a20e-e665-9b17-161226427ca7 "Next" >}} »
+« {{% resource_link 7c6e1dca-9e9d-7e00-1941-647141088a9a "Previous" %}} | {{% resource_link 47ca36a0-a20e-e665-9b17-161226427ca7 "Next" %}} »
 
 Session Overview
 ----------------
@@ -42,7 +42,7 @@ Session Activities
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-*   \[{{< resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" >}}\] Chapter 17, "Uncertainty." (optional)
+*   \[{{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" %}}\] Chapter 17, "Uncertainty." (optional)
 
 ### Lecture Videos
 
@@ -50,7 +50,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   {{< resource_link c80e18e7-e410-7894-68a6-840c62ecbee2 "Graphs and Figures (PDF)" >}}
+*   {{% resource_link c80e18e7-e410-7894-68a6-840c62ecbee2 "Graphs and Figures (PDF)" %}}
 
 Check Yourself
 --------------
@@ -68,4 +68,4 @@ This concept quiz covers key vocabulary terms and also tests your intuitive unde
 ##### Question 4
  {{< quiz_multiple_choice questionId="MCQ4" >}} If a person is risk averse, he will pay a price for insurance even if the expected value of the insurance is lower than the price. Assume that the price of insurance is p, and the expected value (i.e., the expected payouts under the policy) is v. What is the term for the quantity p-v? {{< quiz_choices >}} {{< quiz_choice isCorrect="false" >}}Coefficient of relative risk aversion.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Expected utility.{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}Risk premium.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Risk-loving.{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution >}}The correct answer is risk premium. Risk-averse people will buy insurance, because they are willing to pay money to avoid even the possibility of realizing an extremely low level of insurance. This extra money paid for insurance is known as the risk premium.{{< /quiz_solution >}} {{< /quiz_multiple_choice >}}
 
-« {{< resource_link 7c6e1dca-9e9d-7e00-1941-647141088a9a "Previous" >}} | {{< resource_link 47ca36a0-a20e-e665-9b17-161226427ca7 "Next" >}} »
+« {{% resource_link 7c6e1dca-9e9d-7e00-1941-647141088a9a "Previous" %}} | {{% resource_link 47ca36a0-a20e-e665-9b17-161226427ca7 "Next" %}} »

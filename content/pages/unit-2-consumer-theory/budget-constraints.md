@@ -9,7 +9,7 @@ title: Budget Constraints
 uid: 0c0a7957-a70d-ea1c-20bc-11996dd1090c
 ---
 
-« {{< resource_link eba60351-486e-4457-3f84-ae3b47789fde "Previous" >}} | {{< resource_link de42bac0-72e1-09a5-022b-9104454d56da "Next" >}} »
+« {{% resource_link eba60351-486e-4457-3f84-ae3b47789fde "Previous" %}} | {{% resource_link de42bac0-72e1-09a5-022b-9104454d56da "Next" %}} »
 
 Session Overview
 ----------------
@@ -43,7 +43,7 @@ Session Activities
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
 *   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 7, "The Analysis of Consumer Choice." Sections 7.3.
-*   \[{{< resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" >}}\] Chapter 4, "Consumer Choice." (optional)
+*   \[{{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" %}}\] Chapter 4, "Consumer Choice." (optional)
 
 ### Lecture Videos
 
@@ -51,7 +51,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   {{< resource_link c636ae76-a2d3-5d9f-05e3-345286cce3b0 "Graphs and Figures (PDF)" >}}
+*   {{% resource_link c636ae76-a2d3-5d9f-05e3-345286cce3b0 "Graphs and Figures (PDF)" %}}
 
 Check Yourself
 --------------
@@ -82,4 +82,4 @@ See the \[Perloff\] chapter for the topics covered, as well as quizzes, applicat
 
 *   [Chapter 4](http://faculty.bcitbusiness.ca/KevinW/6500/Perloff/04M_Perloff_8008884_02_Micro_C04.pdf)
 
-« {{< resource_link eba60351-486e-4457-3f84-ae3b47789fde "Previous" >}} | {{< resource_link de42bac0-72e1-09a5-022b-9104454d56da "Next" >}} »
+« {{% resource_link eba60351-486e-4457-3f84-ae3b47789fde "Previous" %}} | {{% resource_link de42bac0-72e1-09a5-022b-9104454d56da "Next" %}} »

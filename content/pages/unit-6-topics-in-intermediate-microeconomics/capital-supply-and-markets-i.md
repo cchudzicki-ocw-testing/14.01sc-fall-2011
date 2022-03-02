@@ -9,7 +9,7 @@ title: Capital Supply and Markets I
 uid: 1540ea69-3186-1f85-5d35-b82c66e44bec
 ---
 
-« {{< resource_link 47ca36a0-a20e-e665-9b17-161226427ca7 "Previous" >}} | {{< resource_link 66c54ff6-d570-18af-9a41-352ad16e70f7 "Next" >}} »
+« {{% resource_link 47ca36a0-a20e-e665-9b17-161226427ca7 "Previous" %}} | {{% resource_link 66c54ff6-d570-18af-9a41-352ad16e70f7 "Next" %}} »
 
 Session Overview
 ----------------
@@ -43,7 +43,7 @@ Session Activities
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
 *   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 13, "Interest Rates and the Markets for Capital and Natural Resources."
-*   \[{{< resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" >}}\] Chapter 16, "Interest Rates, Investments, and Capital Markets." (optional)
+*   \[{{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" %}}\] Chapter 16, "Interest Rates, Investments, and Capital Markets." (optional)
 
 ### Lecture Videos
 
@@ -51,7 +51,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   {{< resource_link 4dc1e81d-399e-d8c8-8287-08258f152a90 "Graphs and Figures (PDF)" >}}
+*   {{% resource_link 4dc1e81d-399e-d8c8-8287-08258f152a90 "Graphs and Figures (PDF)" %}}
 
 Check Yourself
 --------------
@@ -69,4 +69,4 @@ This concept quiz covers key vocabulary terms and also tests your intuitive unde
 ##### Question 4
  {{< quiz_multiple_choice questionId="MCQ4" >}} What is the definition of the real interest rate? {{< quiz_choices >}} {{< quiz_choice isCorrect="false" >}}None of these.{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}The nominal interest rate minus inflation.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}The nominal interest rate plus inflation.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}The ratio of the nominal interest rate to the wage.{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution >}}When you save money, you put dollars in the bank today in exchange for dollars in the bank tomorrow. However, a dollar may not be worth the same amount tomorrow in purchasing power terms. In particular, if the prices of the goods you want to consume are increasing very rapidly, then a dollar tomorrow may have very little value. The nominal interest rate thus captures the rate of return you earn on your savings in terms of purchasing power, and it is calculated by subtracting the rate of inflation from the nominal interest rate.{{< /quiz_solution >}} {{< /quiz_multiple_choice >}}
 
-« {{< resource_link 47ca36a0-a20e-e665-9b17-161226427ca7 "Previous" >}} | {{< resource_link 66c54ff6-d570-18af-9a41-352ad16e70f7 "Next" >}} »
+« {{% resource_link 47ca36a0-a20e-e665-9b17-161226427ca7 "Previous" %}} | {{% resource_link 66c54ff6-d570-18af-9a41-352ad16e70f7 "Next" %}} »

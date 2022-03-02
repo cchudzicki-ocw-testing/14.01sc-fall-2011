@@ -9,7 +9,7 @@ title: Applying Supply and Demand
 uid: bf5626a7-d48d-d3b2-58c6-78a13912ef84
 ---
 
-« {{< resource_link b9026c77-1341-a253-b9d1-649dae571519 "Previous" >}} | {{< resource_link e9dacfa6-ab6f-a244-a257-57f4d8b4b4f1 "Next" >}} »
+« {{% resource_link b9026c77-1341-a253-b9d1-649dae571519 "Previous" %}} | {{% resource_link e9dacfa6-ab6f-a244-a257-57f4d8b4b4f1 "Next" %}} »
 
 Session Overview
 ----------------
@@ -42,13 +42,13 @@ Session Activities
 
 Read the recitation notes, which cover new content that adds to and supplements the material covered in lecture.
 
-*   {{< resource_link 5c67b871-8ff5-5091-c19b-47d15136dc53 "Recitation: Supply-Demand Analysis (PDF)" >}}
+*   {{% resource_link 5c67b871-8ff5-5091-c19b-47d15136dc53 "Recitation: Supply-Demand Analysis (PDF)" %}}
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
 *   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 3, "Demand and Supply."
 *   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 4, "Applications of Demand and Supply." Sections 4.1-4.2.
-*   \[{{< resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" >}}\] Chapter 2, "Supply and Demand." (optional)
+*   \[{{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" %}}\] Chapter 2, "Supply and Demand." (optional)
 
 ### Lecture Videos
 
@@ -56,7 +56,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   {{< resource_link ce03508e-a91b-f5d9-3423-cb299bab5421 "Graphs and Figures (PDF)" >}}
+*   {{% resource_link ce03508e-a91b-f5d9-3423-cb299bab5421 "Graphs and Figures (PDF)" %}}
 
 Further Study
 -------------
@@ -78,4 +78,4 @@ These optional resources are provided for students that wish to explore this top
 
 See the course website for [Econ 302](http://econ302.wikidot.com/supply-and-demand), Intermediate Microeconomics taught at Penn State in 2011. 
 
-« {{< resource_link b9026c77-1341-a253-b9d1-649dae571519 "Previous" >}} | {{< resource_link e9dacfa6-ab6f-a244-a257-57f4d8b4b4f1 "Next" >}} »
+« {{% resource_link b9026c77-1341-a253-b9d1-649dae571519 "Previous" %}} | {{% resource_link e9dacfa6-ab6f-a244-a257-57f4d8b4b4f1 "Next" %}} »

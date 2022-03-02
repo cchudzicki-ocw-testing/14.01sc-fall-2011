@@ -9,7 +9,7 @@ title: U.S. Social Insurance Programs
 uid: 7846c5e3-1518-5524-02f1-19e7b530b4bd
 ---
 
-« {{< resource_link c2b37480-348d-c949-387b-11748d4a62b0 "Previous" >}} | {{< resource_link 41da8f54-7f2a-d774-baa0-e7c50d7cf9e6 "Next" >}} »
+« {{% resource_link c2b37480-348d-c949-387b-11748d4a62b0 "Previous" %}} | {{% resource_link 41da8f54-7f2a-d774-baa0-e7c50d7cf9e6 "Next" %}} »
 
 Session Overview
 ----------------
@@ -100,4 +100,4 @@ An in-depth course on the government’s role in the economy.
 
 {{< tableclose >}}
 
-« {{< resource_link c2b37480-348d-c949-387b-11748d4a62b0 "Previous" >}} | {{< resource_link 41da8f54-7f2a-d774-baa0-e7c50d7cf9e6 "Next" >}} »
+« {{% resource_link c2b37480-348d-c949-387b-11748d4a62b0 "Previous" %}} | {{% resource_link 41da8f54-7f2a-d774-baa0-e7c50d7cf9e6 "Next" %}} »

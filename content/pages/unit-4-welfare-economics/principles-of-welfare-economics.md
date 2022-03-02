@@ -9,7 +9,7 @@ title: Principles of Welfare Economics
 uid: 12e64d3f-0644-2707-bfcb-6442dc9daf1b
 ---
 
-« {{< resource_link 8853fb2e-2f47-a6f1-6c5b-5b422b69abeb "Previous" >}} | {{< resource_link 51ebf007-53b9-a85a-f746-a5c03a54785d "Next" >}} »
+« {{% resource_link 8853fb2e-2f47-a6f1-6c5b-5b422b69abeb "Previous" %}} | {{% resource_link 51ebf007-53b9-a85a-f746-a5c03a54785d "Next" %}} »
 
 Session Overview
 ----------------
@@ -42,12 +42,12 @@ Session Activities
 
 Read the recitation notes, which cover new content that adds to and supplements the material covered in lecture.
 
-*   {{< resource_link 036a42db-f99a-1435-61e9-b40cc2d2faf2 "Recitation: Competition Review (PDF)" >}}
+*   {{% resource_link 036a42db-f99a-1435-61e9-b40cc2d2faf2 "Recitation: Competition Review (PDF)" %}}
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
 *   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 6, "Markets, Maximizers, and Efficiency."
-*   \[{{< resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" >}}\] Chapter 9, "Welfare Economics." (optional)
+*   \[{{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" %}}\] Chapter 9, "Welfare Economics." (optional)
 
 ### Lecture Videos
 
@@ -55,7 +55,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   {{< resource_link 028f5e1d-a081-03d5-91c5-737bff1e55a0 "Graphs and Figures (PDF)" >}}
+*   {{% resource_link 028f5e1d-a081-03d5-91c5-737bff1e55a0 "Graphs and Figures (PDF)" %}}
 
 Check Yourself
 --------------
@@ -86,4 +86,4 @@ See the course website for [Econ 302](http://econ302.wikidot.com/applying-the-co
 
 *   [Chapter 9](http://econ302.wikidot.com/applying-the-competitive-model)
 
-« {{< resource_link 8853fb2e-2f47-a6f1-6c5b-5b422b69abeb "Previous" >}} | {{< resource_link 51ebf007-53b9-a85a-f746-a5c03a54785d "Next" >}} »
+« {{% resource_link 8853fb2e-2f47-a6f1-6c5b-5b422b69abeb "Previous" %}} | {{% resource_link 51ebf007-53b9-a85a-f746-a5c03a54785d "Next" %}} »

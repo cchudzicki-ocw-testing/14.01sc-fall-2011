@@ -9,7 +9,7 @@ title: Monopoly I
 uid: 617ef7a2-5dbc-5b46-dc2f-8d1834973f63
 ---
 
-« {{< resource_link 51ebf007-53b9-a85a-f746-a5c03a54785d "Previous" >}} | {{< resource_link 63a175ea-2f4e-7188-fe6e-df59d477548c "Next" >}} »
+« {{% resource_link 51ebf007-53b9-a85a-f746-a5c03a54785d "Previous" %}} | {{% resource_link 63a175ea-2f4e-7188-fe6e-df59d477548c "Next" %}} »
 
 Session Overview
 ----------------
@@ -43,7 +43,7 @@ Session Activities
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
 *   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 10, "Monopoly."
-*   \[{{< resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" >}}\] Chapter 11, "Monopoly." (optional)
+*   \[{{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" %}}\] Chapter 11, "Monopoly." (optional)
 
 ### Lecture Videos
 
@@ -51,7 +51,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   {{< resource_link 550ee0bd-a818-34f6-d656-e192a2a68c5b "Graphs and Figures (PDF)" >}}
+*   {{% resource_link 550ee0bd-a818-34f6-d656-e192a2a68c5b "Graphs and Figures (PDF)" %}}
 
 Check Yourself
 --------------
@@ -80,4 +80,4 @@ See the \[Perloff\] chapter for the topics covered, as well as quizzes, applicat
 
 *   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Chapter 11 (PDF - 1.6MB)](http://faculty.bcitbusiness.ca/KevinW/6500/Perloff/11M_Perloff_8008884_02_Micro_C11.pdf)
 
-« {{< resource_link 51ebf007-53b9-a85a-f746-a5c03a54785d "Previous" >}} | {{< resource_link 63a175ea-2f4e-7188-fe6e-df59d477548c "Next" >}} »
+« {{% resource_link 51ebf007-53b9-a85a-f746-a5c03a54785d "Previous" %}} | {{% resource_link 63a175ea-2f4e-7188-fe6e-df59d477548c "Next" %}} »

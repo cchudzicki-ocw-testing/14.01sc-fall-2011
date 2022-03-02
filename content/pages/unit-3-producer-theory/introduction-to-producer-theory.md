@@ -9,7 +9,7 @@ title: Introduction to Producer Theory
 uid: c282655d-a496-1349-b75e-5b0e7692c61b
 ---
 
-« {{< resource_link 3abe52b2-06f4-e040-5bcb-7ce684de6ae6 "Previous" >}} | {{< resource_link 35e2a9c4-1897-5d5d-2bfc-b2dfa5fa18ac "Next" >}} »
+« {{% resource_link 3abe52b2-06f4-e040-5bcb-7ce684de6ae6 "Previous" %}} | {{% resource_link 35e2a9c4-1897-5d5d-2bfc-b2dfa5fa18ac "Next" %}} »
 
 Session Overview
 ----------------
@@ -42,12 +42,12 @@ Session Activities
 
 Read the recitation notes, which cover new content that adds to and supplements the material covered in lecture.
 
-*   {{< resource_link 39fdb977-0f2d-d53f-5ad4-fd71de2b04df "Recitation: Demand Function (PDF)" >}}
+*   {{% resource_link 39fdb977-0f2d-d53f-5ad4-fd71de2b04df "Recitation: Demand Function (PDF)" %}}
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
 *   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 8, "Production and Cost."
-*   \[{{< resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" >}}\] Chapter 6, "Firms and Production." (optional)
+*   \[{{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" %}}\] Chapter 6, "Firms and Production." (optional)
 
 ### Lecture Videos
 
@@ -55,7 +55,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   {{< resource_link 9c9d5892-99d8-607a-b57b-829d8117e655 "Graphs and Figures (PDF)" >}}
+*   {{% resource_link 9c9d5892-99d8-607a-b57b-829d8117e655 "Graphs and Figures (PDF)" %}}
 
 Check Yourself
 --------------
@@ -73,4 +73,4 @@ This concept quiz covers key vocabulary terms and also tests your intuitive unde
 ##### Question 4
  {{< quiz_multiple_choice questionId="MCQ4" >}} What is the term used to describe a production function in which you can double all inputs and output increases by more than double? {{< quiz_choices >}} {{< quiz_choice isCorrect="false" >}}Constant returns to scale.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Decreasing returns to scale.{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}Increasing returns to scale.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Leontief.{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution / >}} {{< /quiz_multiple_choice >}}
 
-« {{< resource_link 3abe52b2-06f4-e040-5bcb-7ce684de6ae6 "Previous" >}} | {{< resource_link 35e2a9c4-1897-5d5d-2bfc-b2dfa5fa18ac "Next" >}} »
+« {{% resource_link 3abe52b2-06f4-e040-5bcb-7ce684de6ae6 "Previous" %}} | {{% resource_link 35e2a9c4-1897-5d5d-2bfc-b2dfa5fa18ac "Next" %}} »

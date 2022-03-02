@@ -9,7 +9,7 @@ title: Competition I
 uid: c51a6858-5b2e-cbf5-8359-4f4bc69947e1
 ---
 
-« {{< resource_link 35e2a9c4-1897-5d5d-2bfc-b2dfa5fa18ac "Previous" >}} | {{< resource_link 7202f9bf-94b4-33fc-7f69-0ef73b511c93 "Next" >}} »
+« {{% resource_link 35e2a9c4-1897-5d5d-2bfc-b2dfa5fa18ac "Previous" %}} | {{% resource_link 7202f9bf-94b4-33fc-7f69-0ef73b511c93 "Next" %}} »
 
 Session Overview
 ----------------
@@ -42,12 +42,12 @@ Session Activities
 
 Read the recitation notes, which cover new content that adds to and supplements the material covered in lecture.
 
-*   {{< resource_link d5e3984e-1e3d-5b5a-6798-5441ce486b66 "Recitation: The Production Function and Costs (PDF)" >}}
+*   {{% resource_link d5e3984e-1e3d-5b5a-6798-5441ce486b66 "Recitation: The Production Function and Costs (PDF)" %}}
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
 *   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 9, "Competitive Markets for Goods and Services."
-*   \[{{< resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" >}}\] Chapter 8, "Competitive Firms and Markets." (optional)
+*   \[{{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" %}}\] Chapter 8, "Competitive Firms and Markets." (optional)
 
 ### Lecture Videos
 
@@ -55,7 +55,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   {{< resource_link f9add6bc-f120-f0c6-298d-d7ae3dcb5297 "Graphs and Figures (PDF)" >}}
+*   {{% resource_link f9add6bc-f120-f0c6-298d-d7ae3dcb5297 "Graphs and Figures (PDF)" %}}
 
 Check Yourself
 --------------
@@ -86,4 +86,4 @@ Learn more about Nobel Laureate Peter Diamond:
 
 "[Peter A. Diamond - Biographical.](https://www.nobelprize.org/prizes/economic-sciences/2010/diamond/facts/)" Nobelprize.org.
 
-« {{< resource_link 35e2a9c4-1897-5d5d-2bfc-b2dfa5fa18ac "Previous" >}} | {{< resource_link 7202f9bf-94b4-33fc-7f69-0ef73b511c93 "Next" >}} »
+« {{% resource_link 35e2a9c4-1897-5d5d-2bfc-b2dfa5fa18ac "Previous" %}} | {{% resource_link 7202f9bf-94b4-33fc-7f69-0ef73b511c93 "Next" %}} »

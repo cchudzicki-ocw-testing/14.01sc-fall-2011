@@ -6,7 +6,7 @@ title: 'Unit 3: Producer Theory'
 uid: 3abe52b2-06f4-e040-5bcb-7ce684de6ae6
 ---
 
-« {{< resource_link d46e8fdc-6892-9264-28d5-f67b02821e82 "Previous" >}} | {{< resource_link c282655d-a496-1349-b75e-5b0e7692c61b "Next" >}} »
+« {{% resource_link d46e8fdc-6892-9264-28d5-f67b02821e82 "Previous" %}} | {{% resource_link c282655d-a496-1349-b75e-5b0e7692c61b "Next" %}} »
 
 The goods purchased by consumers are produced by firms, another key set of economic players. This unit introduces you to the study of firm, or producer, behavior. You will learn how to analyze firms' decisions mathematically using a production function and calculate their optimal level of production, costs, and profits. In addition, you will begin to learn how firms interact in a competitive market in the short-run and the long-run.
 
@@ -18,7 +18,7 @@ The goods purchased by consumers are produced by firms, another key set of econo
 {{< tdopen >}}
 
 
-  {{< resource_link c282655d-a496-1349-b75e-5b0e7692c61b "Introduction to Producer Theory" >}}
+  {{% resource_link c282655d-a496-1349-b75e-5b0e7692c61b "Introduction to Producer Theory" %}}
 
   _This image is a work of the US Federal Government and in the public domain. Source: [Library of Congress](http://www.loc.gov/pictures/resource/fsac.1a34951/)._
 
@@ -34,7 +34,7 @@ The goods purchased by consumers are produced by firms, another key set of econo
 {{< tdopen >}}
 
 
-  {{< resource_link 35e2a9c4-1897-5d5d-2bfc-b2dfa5fa18ac "Productivity and Costs" >}}
+  {{% resource_link 35e2a9c4-1897-5d5d-2bfc-b2dfa5fa18ac "Productivity and Costs" %}}
 
   _Image courtesy of AndreasPraefcke on [Wikipedia](http://en.wikipedia.org/wiki/File:Wolfsburg_VW-Werk.jpg)._
 
@@ -50,7 +50,7 @@ The goods purchased by consumers are produced by firms, another key set of econo
 {{< tdopen >}}
 
 
-  {{< resource_link c51a6858-5b2e-cbf5-8359-4f4bc69947e1 "Competition I" >}}
+  {{% resource_link c51a6858-5b2e-cbf5-8359-4f4bc69947e1 "Competition I" %}}
 
   _This image is a work of the US Federal Government and in the public domain. Source: [Wikipedia](http://en.wikipedia.org/wiki/File:NASCAR_practice.jpg)._
 
@@ -66,7 +66,7 @@ The goods purchased by consumers are produced by firms, another key set of econo
 {{< tdopen >}}
 
 
-  {{< resource_link 032b458b-15b1-6f20-7453-36ff876c9f66 "Competition II" >}}
+  {{% resource_link 032b458b-15b1-6f20-7453-36ff876c9f66 "Competition II" %}}
 
   _Image courtesy of [johnthurm](http://www.flickr.com/photos/thurm/2111952075/in/photostream/) on Flickr._
 
@@ -77,4 +77,4 @@ The goods purchased by consumers are produced by firms, another key set of econo
 
 {{< tableclose >}}
 
-« {{< resource_link d46e8fdc-6892-9264-28d5-f67b02821e82 "Previous" >}} | {{< resource_link c282655d-a496-1349-b75e-5b0e7692c61b "Next" >}} »
+« {{% resource_link d46e8fdc-6892-9264-28d5-f67b02821e82 "Previous" %}} | {{% resource_link c282655d-a496-1349-b75e-5b0e7692c61b "Next" %}} »

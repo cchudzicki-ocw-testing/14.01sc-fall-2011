@@ -9,7 +9,7 @@ title: Meet the TAs
 uid: f0b3ed7c-dca2-a26b-75e3-53d084b146b2
 ---
 
-« {{< resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Previous" >}} | {{< resource_link 10bf5cbc-f553-18ee-b099-54ff31dafc1c "Next" >}} »
+« {{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Previous" %}} | {{% resource_link 10bf5cbc-f553-18ee-b099-54ff31dafc1c "Next" %}} »
 
 {{< resource d0ce9da3-b7d3-c62b-63bd-a660db06c4d9 >}} **Jessica Leight**
 
@@ -27,4 +27,4 @@ Greg Hutko is a graduate of the MIT Department of Economics, and is currently te
 
 {{< resource 105aad1a-7bf9-b43b-4f95-902cae6cbd03 >}}
 
-« {{< resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Previous" >}} | {{< resource_link 10bf5cbc-f553-18ee-b099-54ff31dafc1c "Next" >}} »
+« {{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Previous" %}} | {{% resource_link 10bf5cbc-f553-18ee-b099-54ff31dafc1c "Next" %}} »

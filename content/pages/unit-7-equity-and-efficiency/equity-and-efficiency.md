@@ -9,7 +9,7 @@ title: Equity and Efficiency
 uid: 1b95348a-7b79-a798-d635-6d4376464c0d
 ---
 
-« {{< resource_link c94fdf90-5457-1202-c278-c37041d32e5c "Previous" >}} | {{< resource_link b3df4706-2059-ac3f-7af8-8832de93e0fb "Next" >}} »
+« {{% resource_link c94fdf90-5457-1202-c278-c37041d32e5c "Previous" %}} | {{% resource_link b3df4706-2059-ac3f-7af8-8832de93e0fb "Next" %}} »
 
 Session Overview
 ----------------
@@ -43,7 +43,7 @@ Session Activities
 Before watching the Lecture Video, read the course textbook for an introduction to the material covered in this session:
 
 *   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 19, "Inequality, Poverty, and Discrimination." Sections 19.1-2.
-*   \[{{< resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" >}}\] Chapter 10, "General Equilibrium and Economic Welfare." (optional)
+*   \[{{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" %}}\] Chapter 10, "General Equilibrium and Economic Welfare." (optional)
 
 ### Lecture Videos
 
@@ -51,7 +51,7 @@ Before watching the Lecture Video, read the course textbook for an introduction 
 
 ### Resources
 
-*   {{< resource_link d00f6be0-00ad-e00a-451d-f1a0d5417821 "Graphs and Figures (PDF)" >}}
+*   {{% resource_link d00f6be0-00ad-e00a-451d-f1a0d5417821 "Graphs and Figures (PDF)" %}}
 
 Check Yourself
 --------------
@@ -76,4 +76,4 @@ See the course website for [Econ 302](http://econ302.wikidot.com/general-equilib
 
 *   [Chapter 10](http://econ302.wikidot.com/general-equilibrium)
 
-« {{< resource_link c94fdf90-5457-1202-c278-c37041d32e5c "Previous" >}} | {{< resource_link b3df4706-2059-ac3f-7af8-8832de93e0fb "Next" >}} »
+« {{% resource_link c94fdf90-5457-1202-c278-c37041d32e5c "Previous" %}} | {{% resource_link b3df4706-2059-ac3f-7af8-8832de93e0fb "Next" %}} »

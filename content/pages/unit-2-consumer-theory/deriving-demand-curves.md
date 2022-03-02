@@ -9,7 +9,7 @@ title: Deriving Demand Curves
 uid: e0983a2e-16f7-37a8-ad57-4f6bb67502e5
 ---
 
-« {{< resource_link de42bac0-72e1-09a5-022b-9104454d56da "Previous" >}} | {{< resource_link 52d96c2f-56aa-990b-e3ea-69526d59464b "Next" >}} »
+« {{% resource_link de42bac0-72e1-09a5-022b-9104454d56da "Previous" %}} | {{% resource_link 52d96c2f-56aa-990b-e3ea-69526d59464b "Next" %}} »
 
 Session Overview
 ----------------
@@ -42,12 +42,12 @@ Session Activities
 
 Read the recitation notes, which cover new content that adds to and supplements the material covered in lecture.
 
-*   {{< resource_link 7576d513-6178-f343-1567-8983953421c9 "Recitation: Substitution (PDF)" >}}
+*   {{% resource_link 7576d513-6178-f343-1567-8983953421c9 "Recitation: Substitution (PDF)" %}}
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
 *   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 7, "The Analysis of Consumer Choice." Section 7.2.3.
-*   \[{{< resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" >}}\] Chapter 5, "Applying Consumer Theory." (optional)
+*   \[{{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" %}}\] Chapter 5, "Applying Consumer Theory." (optional)
 
 ### Lecture Videos
 
@@ -55,7 +55,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   {{< resource_link f90025ff-5e76-4c15-9e7b-a8698ff9fac5 "Graphs and Figures (PDF)" >}}
+*   {{% resource_link f90025ff-5e76-4c15-9e7b-a8698ff9fac5 "Graphs and Figures (PDF)" %}}
 
 Check Yourself
 --------------
@@ -117,4 +117,4 @@ Alternative notes with an advanced theoretical approach.
 
 {{< tableclose >}}
 
-« {{< resource_link de42bac0-72e1-09a5-022b-9104454d56da "Previous" >}} | {{< resource_link 52d96c2f-56aa-990b-e3ea-69526d59464b "Next" >}} »
+« {{% resource_link de42bac0-72e1-09a5-022b-9104454d56da "Previous" %}} | {{% resource_link 52d96c2f-56aa-990b-e3ea-69526d59464b "Next" %}} »
