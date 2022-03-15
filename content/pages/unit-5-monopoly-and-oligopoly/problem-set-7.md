@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 51ebf007-53b9-a85a-f746-a5c03a54785d
 title: Problem Set 7
 uid: 6646396a-08af-4e2f-2e6c-5cd67f11bcf9
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 2345b16d-4f54-dfc7-a811-91d1d1abbca2 "Previous" %}} | {{% resource_link 2954fa84-88a1-a8cb-0a6a-bcfda77e25b9 "Next" %}} »

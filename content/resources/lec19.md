@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: lec19.jpg
 uid: 21bb9b2a-2ef8-639b-ecde-f55d73df07be
+video_metadata:
+  youtube_id: null
 ---

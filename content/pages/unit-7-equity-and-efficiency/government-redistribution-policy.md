@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: c94fdf90-5457-1202-c278-c37041d32e5c
 title: Government Redistribution Policy
 uid: b3df4706-2059-ac3f-7af8-8832de93e0fb
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 1b95348a-7b79-a798-d635-6d4376464c0d "Previous" %}} | {{% resource_link c2b37480-348d-c949-387b-11748d4a62b0 "Next" %}} »

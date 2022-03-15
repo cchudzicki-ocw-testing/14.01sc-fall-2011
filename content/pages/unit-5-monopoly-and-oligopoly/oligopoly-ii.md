@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 51ebf007-53b9-a85a-f746-a5c03a54785d
 title: Oligopoly II
 uid: 2954fa84-88a1-a8cb-0a6a-bcfda77e25b9
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 6646396a-08af-4e2f-2e6c-5cd67f11bcf9 "Previous" %}} | {{% resource_link 68f8f062-a1d7-c90a-66a7-04a60dcfb901 "Next" %}} »

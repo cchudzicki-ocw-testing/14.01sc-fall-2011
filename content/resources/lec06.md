@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: lec06.jpg
 uid: fd606424-586b-15ba-0c8b-ab02c07e99b7
+video_metadata:
+  youtube_id: null
 ---

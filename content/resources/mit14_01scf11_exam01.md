@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_exam01.pdf
 uid: 0454bc30-df16-66fe-266f-0a3353c0c633
+video_metadata:
+  youtube_id: null
 ---

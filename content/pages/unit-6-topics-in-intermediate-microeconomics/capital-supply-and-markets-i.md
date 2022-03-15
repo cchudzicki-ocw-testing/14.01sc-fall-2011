@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 2b057e13-f81e-86aa-d632-c23c1074b663
 title: Capital Supply and Markets I
 uid: 1540ea69-3186-1f85-5d35-b82c66e44bec
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 47ca36a0-a20e-e665-9b17-161226427ca7 "Previous" %}} | {{% resource_link 66c54ff6-d570-18af-9a41-352ad16e70f7 "Next" %}} »

@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 74a70dbf-2813-4c7f-25ca-e0a217b6ec6f
 title: Principles of Welfare Economics
 uid: 12e64d3f-0644-2707-bfcb-6442dc9daf1b
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 8853fb2e-2f47-a6f1-6c5b-5b422b69abeb "Previous" %}} | {{% resource_link 51ebf007-53b9-a85a-f746-a5c03a54785d "Next" %}} »

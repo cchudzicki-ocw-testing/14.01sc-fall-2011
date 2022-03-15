@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: c94fdf90-5457-1202-c278-c37041d32e5c
 title: Equity and Efficiency
 uid: 1b95348a-7b79-a798-d635-6d4376464c0d
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link c94fdf90-5457-1202-c278-c37041d32e5c "Previous" %}} | {{% resource_link b3df4706-2059-ac3f-7af8-8832de93e0fb "Next" %}} »

@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4
 title: Preferences and Utility
 uid: eba60351-486e-4457-3f84-ae3b47789fde
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4 "Previous" %}} | {{% resource_link 0c0a7957-a70d-ea1c-20bc-11996dd1090c "Next" %}} »

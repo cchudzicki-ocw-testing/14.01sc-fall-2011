@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Midterm Exam 1
 uid: d46e8fdc-6892-9264-28d5-f67b02821e82
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 5be371bb-9c4f-36b1-f197-043fc0d6cab4 "Previous" %}} | {{% resource_link 3abe52b2-06f4-e040-5bcb-7ce684de6ae6 "Next" %}} »

@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4
 title: 'Applying Consumer Theory: Labor'
 uid: 52d96c2f-56aa-990b-e3ea-69526d59464b
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link e0983a2e-16f7-37a8-ad57-4f6bb67502e5 "Previous" %}} | {{% resource_link 5be371bb-9c4f-36b1-f197-043fc0d6cab4 "Next" %}} »

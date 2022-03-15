@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: lec20.jpg
 uid: 38ca8616-5171-394f-4f2d-a7129662c38f
+video_metadata:
+  youtube_id: null
 ---

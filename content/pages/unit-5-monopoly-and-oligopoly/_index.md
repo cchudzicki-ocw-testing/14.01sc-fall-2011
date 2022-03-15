@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit 5: Monopoly and Oligopoly'
 uid: 51ebf007-53b9-a85a-f746-a5c03a54785d
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 12e64d3f-0644-2707-bfcb-6442dc9daf1b "Previous" %}} | {{% resource_link 617ef7a2-5dbc-5b46-dc2f-8d1834973f63 "Next" %}} »

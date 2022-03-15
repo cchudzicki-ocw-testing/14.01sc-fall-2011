@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: quiz16_graph03.png
 uid: 2bec54d0-2f34-930b-f9b6-6b80908d36c3
+video_metadata:
+  youtube_id: null
 ---

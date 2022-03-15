@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 3abe52b2-06f4-e040-5bcb-7ce684de6ae6
 title: Introduction to Producer Theory
 uid: c282655d-a496-1349-b75e-5b0e7692c61b
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 3abe52b2-06f4-e040-5bcb-7ce684de6ae6 "Previous" %}} | {{% resource_link 35e2a9c4-1897-5d5d-2bfc-b2dfa5fa18ac "Next" %}} »

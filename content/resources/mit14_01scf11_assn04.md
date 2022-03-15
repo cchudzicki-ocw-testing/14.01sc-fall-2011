@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_assn04.pdf
 uid: ad3334b8-1b1a-e8f4-29ec-09f4d4a1daa4
+video_metadata:
+  youtube_id: null
 ---

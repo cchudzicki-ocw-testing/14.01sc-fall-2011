@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 3abe52b2-06f4-e040-5bcb-7ce684de6ae6
 title: Competition I
 uid: c51a6858-5b2e-cbf5-8359-4f4bc69947e1
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 35e2a9c4-1897-5d5d-2bfc-b2dfa5fa18ac "Previous" %}} | {{% resource_link 7202f9bf-94b4-33fc-7f69-0ef73b511c93 "Next" %}} »

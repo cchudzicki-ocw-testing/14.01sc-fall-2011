@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: nora_image.jpg
 uid: 49f49306-3949-6451-f482-db789d2beb23
+video_metadata:
+  youtube_id: null
 ---

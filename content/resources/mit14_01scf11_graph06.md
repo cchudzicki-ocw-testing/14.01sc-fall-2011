@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_graph06.pdf
 uid: f90025ff-5e76-4c15-9e7b-a8698ff9fac5
+video_metadata:
+  youtube_id: null
 ---

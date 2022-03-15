@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 2b057e13-f81e-86aa-d632-c23c1074b663
 title: Uncertainty
 uid: eb20a386-5631-4e61-6324-268b98c9df1d
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 7c6e1dca-9e9d-7e00-1941-647141088a9a "Previous" %}} | {{% resource_link 47ca36a0-a20e-e665-9b17-161226427ca7 "Next" %}} »

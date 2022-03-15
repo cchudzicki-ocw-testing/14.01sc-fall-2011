@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: c94fdf90-5457-1202-c278-c37041d32e5c
 title: Healthcare Economics
 uid: 41da8f54-7f2a-d774-baa0-e7c50d7cf9e6
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 7846c5e3-1518-5524-02f1-19e7b530b4bd "Previous" %}} | {{% resource_link 0a131ce5-8530-cca6-ffa8-3134297349da "Next" %}} »

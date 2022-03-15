@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 10bf5cbc-f553-18ee-b099-54ff31dafc1c
 title: Elasticity
 uid: e9dacfa6-ab6f-a244-a257-57f4d8b4b4f1
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link bf5626a7-d48d-d3b2-58c6-78a13912ef84 "Previous" %}} | {{% resource_link 4cecca62-a7b9-486b-1e1d-45d54b8e504b "Next" %}} »

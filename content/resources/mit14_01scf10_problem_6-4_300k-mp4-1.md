@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: MIT14_01SCF10_problem_6-4_300k-mp4.srt
 uid: 44ffdeeb-dafe-5629-afb0-fb8745b11906
+video_metadata:
+  youtube_id: null
 ---

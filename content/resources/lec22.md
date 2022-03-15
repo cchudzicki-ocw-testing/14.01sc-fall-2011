@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: lec22.jpg
 uid: c5553330-5862-a26d-1212-cf252f484047
+video_metadata:
+  youtube_id: null
 ---

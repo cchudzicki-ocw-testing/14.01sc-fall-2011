@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: lec21.jpg
 uid: c3f9b54a-c92e-adab-3e0f-2033e6361b4c
+video_metadata:
+  youtube_id: null
 ---

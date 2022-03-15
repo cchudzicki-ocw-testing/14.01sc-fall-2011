@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: jess_image.jpg
 uid: d0ce9da3-b7d3-c62b-63bd-a660db06c4d9
+video_metadata:
+  youtube_id: null
 ---

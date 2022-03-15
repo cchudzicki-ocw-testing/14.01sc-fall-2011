@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_graph07.pdf
 uid: d272b420-c017-1f47-cd3e-dcb5b9cab225
+video_metadata:
+  youtube_id: null
 ---

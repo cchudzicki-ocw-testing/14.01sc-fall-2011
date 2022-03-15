@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit 1: Supply and Demand'
 uid: 10bf5cbc-f553-18ee-b099-54ff31dafc1c
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link f0b3ed7c-dca2-a26b-75e3-53d084b146b2 "Previous" %}} | {{% resource_link b9026c77-1341-a253-b9d1-649dae571519 "Next" %}} »

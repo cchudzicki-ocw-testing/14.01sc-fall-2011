@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit 6: Topics in Intermediate Microeconomics'
 uid: 2b057e13-f81e-86aa-d632-c23c1074b663
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 68f8f062-a1d7-c90a-66a7-04a60dcfb901 "Previous" %}} | {{% resource_link 9af14389-2f78-d160-e3b7-064bcdef0053 "Next" %}} »

@@ -16,4 +16,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: lec10.jpg
 uid: e570c181-4ed4-e9ed-b824-3cc8eb139b92
+video_metadata:
+  youtube_id: null
 ---

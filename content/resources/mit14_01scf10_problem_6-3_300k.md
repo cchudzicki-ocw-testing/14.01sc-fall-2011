@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF10_problem_6-3_300k.pdf
 uid: 897f66b1-c56a-93ff-a78a-ee1caf558281
+video_metadata:
+  youtube_id: null
 ---

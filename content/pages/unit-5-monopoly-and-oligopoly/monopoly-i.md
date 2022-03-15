@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 51ebf007-53b9-a85a-f746-a5c03a54785d
 title: Monopoly I
 uid: 617ef7a2-5dbc-5b46-dc2f-8d1834973f63
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 51ebf007-53b9-a85a-f746-a5c03a54785d "Previous" %}} | {{% resource_link 63a175ea-2f4e-7188-fe6e-df59d477548c "Next" %}} »

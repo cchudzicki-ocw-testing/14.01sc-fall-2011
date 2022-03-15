@@ -14,4 +14,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: lec17.jpg
 uid: a025b1be-c427-d90b-fbcd-335c04a880c4
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_rec01.pdf
 uid: 5c67b871-8ff5-5091-c19b-47d15136dc53
+video_metadata:
+  youtube_id: null
 ---

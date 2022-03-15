@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit 3: Producer Theory'
 uid: 3abe52b2-06f4-e040-5bcb-7ce684de6ae6
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link d46e8fdc-6892-9264-28d5-f67b02821e82 "Previous" %}} | {{% resource_link c282655d-a496-1349-b75e-5b0e7692c61b "Next" %}} »

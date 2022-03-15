@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit 2: Consumer Theory'
 uid: 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 4cecca62-a7b9-486b-1e1d-45d54b8e504b "Previous" %}} | {{% resource_link eba60351-486e-4457-3f84-ae3b47789fde "Next" %}} »

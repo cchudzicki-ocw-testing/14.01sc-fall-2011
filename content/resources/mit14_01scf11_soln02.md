@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_soln02.pdf
 uid: 7f7098ba-1835-1b03-b31b-9f9376902d13
+video_metadata:
+  youtube_id: null
 ---

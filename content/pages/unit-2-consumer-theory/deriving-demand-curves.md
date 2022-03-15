@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4
 title: Deriving Demand Curves
 uid: e0983a2e-16f7-37a8-ad57-4f6bb67502e5
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link de42bac0-72e1-09a5-022b-9104454d56da "Previous" %}} | {{% resource_link 52d96c2f-56aa-990b-e3ea-69526d59464b "Next" %}} »

@@ -7,6 +7,8 @@ parent_type: CourseSection
 parent_uid: 10bf5cbc-f553-18ee-b099-54ff31dafc1c
 title: Applying Supply and Demand
 uid: bf5626a7-d48d-d3b2-58c6-78a13912ef84
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link b9026c77-1341-a253-b9d1-649dae571519 "Previous" %}} | {{% resource_link e9dacfa6-ab6f-a244-a257-57f4d8b4b4f1 "Next" %}} »
