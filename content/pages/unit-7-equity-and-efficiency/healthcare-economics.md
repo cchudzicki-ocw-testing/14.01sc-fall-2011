@@ -19,7 +19,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{< resource a4d55a2e-2350-59c1-897d-f6ec266e1903 "lec26.jpg" >}}
+{{< resource "a4d55a2e-2350-59c1-897d-f6ec266e1903" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
