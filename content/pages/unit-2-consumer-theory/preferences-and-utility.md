@@ -37,8 +37,8 @@ Read the recitation notes, which cover new content that adds to and supplements 
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-- \[\[R&T\]\]({{< baseurl >}}/pages/Syllabus#_R\_T_) {{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "[R&T]" "#_R_T_" %}} Chapter 7, "The Analysis of Consumer Choice." Sections 7.1, 7.2.1-2, and 7.3.2.
-- \[\[Perloff\]({{< baseurl >}}/pages/Syllabus#_Perloff_)\] {{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "[Perloff]" "#_Perloff_" %}} Chapter 4, "Consumer Choice." (optional)
+- {{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "[R&T]" "#_R_T_" %}} Chapter 7, "The Analysis of Consumer Choice." Sections 7.1, 7.2.1-2, and 7.3.2.
+- {{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "[Perloff]" "#_Perloff_" %}} Chapter 4, "Consumer Choice." (optional)
 
 ### Lecture Videos
 
