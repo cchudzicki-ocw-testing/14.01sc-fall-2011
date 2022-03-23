@@ -8,7 +8,7 @@ uid: 8abb293b-49d8-047a-3f36-74bfa02e78f7
 video_metadata:
   youtube_id: null
 ---
-« \[Previous\]({{< baseurl >}}/) | \[Next\]({{< baseurl >}}/pages/Syllabus/meet-the-tas) »
+« [Previous](../../) | {{% resource_link f0b3ed7c-dca2-a26b-75e3-53d084b146b2 "Next" %}} »
 
 ## About this Course
 
@@ -88,6 +88,6 @@ There will also be a three hour final, which will be cumulative and cover all of
 
 ## Acknowledgements
 
-This course includes substantial contributions from several talented [14.01SC Teaching Assistants](https://ocwnext.odl.mit.edu/courses/14-01sc-principles-of-microeconomics-fall-2011/pages/syllabus/meet-the-tas/).
+This course includes substantial contributions from several talented {{% resource_link f0b3ed7c-dca2-a26b-75e3-53d084b146b2 "14.01SC Teaching Assistants" %}}.
 
-« \[Previous\]({{< baseurl >}}/) | \[Next\]({{< baseurl >}}/pages/Syllabus/meet-the-tas) »
+« [Previous](../../) | {{% resource_link f0b3ed7c-dca2-a26b-75e3-53d084b146b2 "Next" %}} »
