@@ -19,7 +19,7 @@ video_metadata:
 {{< resource 6f48d646-238f-270e-2406-2afdc13b7bfd >}}
 {{< tdclose >}}{{< tdopen >}}
 
-Behind every supply and demand curve is an army of producers and consumers making their own decisions. For consumers, their decisions are driven, quite simply, by what they want! All consumers make decisions to maximize their utility. In this lecture, we will learn about utility, how to define it and how we represent it mathematically. 
+Behind every supply and demand curve is an army of producers and consumers making their own decisions. For consumers, their decisions are driven, quite simply, by what they want! All consumers make decisions to maximize their utility. In this lecture, we will learn about utility, how to define it and how we represent it mathematically.
 
 _How does each slice of pizza you consume impact your utility for the next? Image courtesy of_ [_William Jones_](http://www.flickr.com/photos/fritish/3357925979/) _on Flickr_.
 
