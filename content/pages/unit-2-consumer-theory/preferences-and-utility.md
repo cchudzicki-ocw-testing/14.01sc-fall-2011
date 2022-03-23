@@ -19,7 +19,7 @@ video_metadata:
 {{< resource 6f48d646-238f-270e-2406-2afdc13b7bfd >}}
 {{< tdclose >}}{{< tdopen >}}
 
-Behind every supply and demand curve is an army of producers and consumers making their own decisions. For consumers, their decisions are driven, quite simply, by what they want! All consumers make decisions to maximize their utility. In this lecture, we will learn about utility, how to define it and how we represent it mathematically.
+Behind every supply and demand curve is an army of producers and consumers making their own decisions. For consumers, their decisions are driven, quite simply, by what they want! All consumers make decisions to maximize their utility. In this lecture, we will learn about utility, how to define it and how we represent it mathematically. 
 
 _How does each slice of pizza you consume impact your utility for the next? Image courtesy of_ [_William Jones_](http://www.flickr.com/photos/fritish/3357925979/) _on Flickr_.
 
@@ -37,8 +37,8 @@ Read the recitation notes, which cover new content that adds to and supplements 
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-- \[\[R&T\]\]({{< baseurl >}}/pages/Syllabus#_R\_T_) {{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "[R&T]" %}} Chapter 7, "The Analysis of Consumer Choice." Sections 7.1, 7.2.1-2, and 7.3.2.
-- \[\[Perloff\]({{< baseurl >}}/pages/Syllabus#_Perloff_)\] {{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "[Perloff]" %}} Chapter 4, "Consumer Choice." (optional)
+- \[\[R&T\]\]({{< baseurl >}}/pages/Syllabus#_R\_T_) {{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "[R&T]" anchor_id="#R_T" %}} Chapter 7, "The Analysis of Consumer Choice." Sections 7.1, 7.2.1-2, and 7.3.2.
+- \[\[Perloff\]({{< baseurl >}}/pages/Syllabus#_Perloff_)\] {{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "[Perloff]" anchor_id="Perloff" %}} Chapter 4, "Consumer Choice." (optional)
 
 ### Lecture Videos
 
