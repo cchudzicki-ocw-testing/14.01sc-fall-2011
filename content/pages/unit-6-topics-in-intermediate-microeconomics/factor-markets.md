@@ -20,8 +20,8 @@ video_metadata:
 {{< tdclose >}}{{< tdopen >}}
 
 ```c
-        <p>Earlier in the semester, we discussed the labor supply decisions made by consumers when deciding how much they should or should not work. However, firms have the power to decide how many workers to hire. This lecture focuses on the operation of firms in the factor markets that supply the factors (labor and capital) they use in production.</p>
-        <p class="instruction"><em>A firm made the decision to hire these workers. In this lecture, discover the determinants of this decision! Image courtesy of <a href="http://www.flickr.com/photos/remkotanis/4094323478/in/photostream/">Remko Tanis</a> on Flickr.</em></p>
+        Earlier in the semester, we discussed the labor supply decisions made by consumers when deciding how much they should or should not work. However, firms have the power to decide how many workers to hire. This lecture focuses on the operation of firms in the factor markets that supply the factors (labor and capital) they use in production.
+        A firm made the decision to hire these workers. In this lecture, discover the determinants of this decision! Image courtesy of Remko Tanis on Flickr.
 ```
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
