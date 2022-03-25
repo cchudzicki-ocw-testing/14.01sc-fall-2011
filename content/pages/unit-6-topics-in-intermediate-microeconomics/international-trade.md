@@ -38,17 +38,11 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Lecture Videos
 
-- 72429169lecture19internationaltrade32197376
+- {{% resource_link 05f3f13d-d69c-7fc0-c4b6-cefd46d6cd06 "Lecture 19: International Trade" %}}
 
 ### Resources
 
 - [Graphs and Figures (PDF)](./resolveuid/140751ff9fe6eb2976df6d6c5942fa7d)
-
-## Check Yourself
-
-### Concept Quiz
-
-This concept quiz covers key vocabulary terms and also tests your intuitive understanding of the material covered in this session. Complete this quiz before moving on to the next session to make sure you understand the concepts required to solve the mathematical and graphical problems that are the basis of this course.
 
 ## Further Study
 
