@@ -39,7 +39,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Lecture Videos
 
-- 26067233lecture18factormarkets81196311
+- {{% resource_link 3ae2c458-766a-ab9b-97e3-d966ea9539dd "Lecture 18: Factor Markets" %}}
 
 ### Resources
 
