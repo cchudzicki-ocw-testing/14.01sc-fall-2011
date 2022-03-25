@@ -16,13 +16,12 @@ video_metadata:
 ## Session Overview
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-![lec19.jpg](./resolveuid/21bb9b2a2ef8639becdef55d73df07be) 
+{{< resource 21bb9b2a-2ef8-639b-ecde-f55d73df07be >}}
 {{< tdclose >}}{{< tdopen >}}
 
-```c
-        <p>How many of you have received flowers for Valentine's Day? Of course, February in New England is snowy, and those flowers are not raised locally—they are imported from other countries. International trade is hugely important in national and international economies today, but up to this point it has been excluded from our models. In this lecture, a basic introduction to the principles of international trade is provided.</p>
-        <p class="instruction"><em>Roses you receive on Valentine’s Day may have been imported from another country as a product of international trade. Image courtesy of <a href="http://www.flickr.com/photos/ntknicole/2509289031/">ntknicole</a> on Flickr.</em></p>
-```
+How many of you have received flowers for Valentine's Day? Of course, February in New England is snowy, and those flowers are not raised locally—they are imported from other countries. International trade is hugely important in national and international economies today, but up to this point it has been excluded from our models. In this lecture, a basic introduction to the principles of international trade is provided.
+
+Roses you receive on Valentine’s Day may have been imported from another country as a product of international trade. Image courtesy of [ntknicole](http://www.flickr.com/photos/ntknicole/2509289031/) on Flickr.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
