@@ -16,14 +16,10 @@ video_metadata:
 ## Session Overview
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-![lec16.jpg](./resolveuid/f92d15479953381d5bd472684920f41a)
+{{< resource f92d1547-9953-381d-5bd4-72684920f41a >}}
 {{< tdclose >}}{{< tdopen >}}
-
-```c
-        <p>We have already learned about the operation of two very different types of markets: perfectly competitive markets and monopolists. However, most markets don’t fall into either category. For example, think of the market for soda - both Pepsi and Coke are major producers, and they dominate the market. This type of market structure is known as an oligopoly, and it is the subject of this lecture.</p>
-        <p class="instruction"><em>Learn about the prisoner’s dilemma in this lecture. Image courtesy of <a href="http://www.flickr.com/photos/sheeppurple/2665016444/">Sheep purple</a> on Flickr.</em></p>
-```
-
+We have already learned about the operation of two very different types of markets: perfectly competitive markets and monopolists. However, most markets don’t fall into either category. For example, think of the market for soda - both Pepsi and Coke are major producers, and they dominate the market. This type of market structure is known as an oligopoly, and it is the subject of this lecture.  
+       Learn about the prisoner’s dilemma in this lecture. Image courtesy of [Sheep purple](http://www.flickr.com/photos/sheeppurple/2665016444/) on Flickr.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 *Keywords*: Oligopoly; cartel; game theory; Nash equilibrium; Cournot model; duopoly; non-cooperative competition.
