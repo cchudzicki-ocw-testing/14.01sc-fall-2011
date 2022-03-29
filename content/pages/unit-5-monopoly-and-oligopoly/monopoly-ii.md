@@ -85,6 +85,6 @@ These optional resources are provided for students that wish to explore this top
 
 See the \[Perloff\] chapter for the topics covered, as well as quizzes, applications, and other related resources.
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Chapter 11 (PDF - 1.6MB)](http://faculty.bcitbusiness.ca/KevinW/6500/Perloff/11M_Perloff_8008884_02_Micro_C11.pdf)
+*    [Chapter 11 (PDF - 1.6MB)](http://faculty.bcitbusiness.ca/KevinW/6500/Perloff/11M_Perloff_8008884_02_Micro_C11.pdf)
 
 « {{% resource_link 63a175ea-2f4e-7188-fe6e-df59d477548c "Previous" %}} | {{% resource_link 2345b16d-4f54-dfc7-a811-91d1d1abbca2 "Next" %}} »
