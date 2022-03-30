@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: Problem 2a-b Solution Video
 uid: 8ef43bcc-0f64-0ae3-2a7c-2c9c7eedfde7
 video_files:

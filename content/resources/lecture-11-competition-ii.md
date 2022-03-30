@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Lecture 11: Competition II'
 uid: 03947463-c7b1-c8d8-757e-75cf0f77f1e4
 video_files:

@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: Problem 3 Solution Video
 uid: 765bf87d-d700-a3ab-e736-e698385c9771
 video_files:

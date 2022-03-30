@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Lecture 7: Applying Consumer Theory: Labor Supply'
 uid: 08a84aae-8961-aa0d-6ea2-798e975825fa
 video_files:

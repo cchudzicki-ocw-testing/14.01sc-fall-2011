@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Lecture 8: Introduction to Producer Theory'
 uid: 47cecaae-1ca1-3f9d-e21d-3b2201d0fa12
 video_files:

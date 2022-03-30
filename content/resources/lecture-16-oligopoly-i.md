@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Lecture 16: Oligopoly I'
 uid: 8361fefa-de40-0714-e9c6-8b151720ada7
 video_files:

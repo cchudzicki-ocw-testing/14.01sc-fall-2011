@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Lecture 3: Elasticity'
 uid: 2b072f9a-436c-6d9b-5b1b-9859898ef6e9
 video_files:

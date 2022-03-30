@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Lecture 25: U.S. Social Insurance Programs'
 uid: 3ba40d60-bae9-848d-ee85-75f96bbbd0de
 video_files:

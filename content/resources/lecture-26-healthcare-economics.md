@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Lecture 26: Healthcare Economics'
 uid: fff60dc3-d44e-ce2e-b9a3-22b97b533476
 video_files:

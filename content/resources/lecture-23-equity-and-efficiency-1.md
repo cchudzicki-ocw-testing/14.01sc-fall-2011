@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Lecture 23: Equity and Efficiency'
 uid: be3c03d1-d05f-b9ea-c148-2bd7942e33dc
 video_files:
