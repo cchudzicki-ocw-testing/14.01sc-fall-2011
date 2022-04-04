@@ -15,8 +15,7 @@ Preparation
 
 The final exam is cumulative and covers material from the beginning of the course. Please review all of the subject content, especially from the units which have not been covered in previous exams:
 
-*   [Unit 6: Topics in Intermediate Microeconomics  
-    ]({{< baseurl >}}/pages/unit-6-topics-in-intermediate-microeconomics)
+*   {{% resource_link "2b057e13-f81e-86aa-d632-c23c1074b663" "Unit 6: Topics in Intermediate Microeconomics       " %}}
 *   {{% resource_link c94fdf90-5457-1202-c278-c37041d32e5c "Unit 7: Equity and Efficiency" %}}
 
 The final exam tests your conceptual, mathematical and graphical understanding of the material covered throughout the entire course.

@@ -17,8 +17,7 @@ Midterm exam 2 covers material from the beginning of the course, with a focus on
 
 *   {{% resource_link 3abe52b2-06f4-e040-5bcb-7ce684de6ae6 "Unit 3: Producer Theory" %}}
 *   {{% resource_link 74a70dbf-2813-4c7f-25ca-e0a217b6ec6f "Unit 4: Welfare Economics" %}}
-*   [Unit 5: Monopoly and Oligopoly  
-    ]({{< baseurl >}}/pages/unit-5-monopoly-and-oligopoly)
+*   {{% resource_link "51ebf007-53b9-a85a-f746-a5c03a54785d" "Unit 5: Monopoly and Oligopoly       " %}}
 
 The exam tests your conceptual, mathematical and graphical understanding of the material covered in this portion of the course.
 

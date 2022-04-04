@@ -44,7 +44,7 @@ Session Activities
 
 Before watching the Lecture Video, read the course textbook for an introduction to the material covered in this session:
 
-*   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 19, "Inequality, Poverty, and Discrimination." Sections 19.1-2.
+*   {{% resource_link "8abb293b-49d8-047a-3f36-74bfa02e78f7" "\[R&T\]" "#_R_T_" %}} Chapter 19, "Inequality, Poverty, and Discrimination." Sections 19.1-2.
 *   \[{{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" %}}\] Chapter 10, "General Equilibrium and Economic Welfare." (optional)
 
 ### Lecture Videos

@@ -44,7 +44,7 @@ Session Activities
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-*   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 15, "Public Finance and Public Choice."
+*   {{% resource_link "8abb293b-49d8-047a-3f36-74bfa02e78f7" "\[R&T\]" "#_R_T_" %}} Chapter 15, "Public Finance and Public Choice."
 
 ### Lecture Videos
 

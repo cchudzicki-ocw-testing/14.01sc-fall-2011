@@ -48,7 +48,7 @@ Read the recitation notes, which cover new content that adds to and supplements 
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-*   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 9, "Competitive Markets for Goods and Services."
+*   {{% resource_link "8abb293b-49d8-047a-3f36-74bfa02e78f7" "\[R&T\]" "#_R_T_" %}} Chapter 9, "Competitive Markets for Goods and Services."
 *   \[{{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" %}}\] Chapter 8, "Competitive Firms and Markets." (optional)
 
 ### Lecture Videos
