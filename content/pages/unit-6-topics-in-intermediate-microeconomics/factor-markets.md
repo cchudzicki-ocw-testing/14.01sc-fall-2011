@@ -11,7 +11,7 @@ uid: 9af14389-2f78-d160-e3b7-064bcdef0053
 video_metadata:
   youtube_id: null
 ---
-« [Previous](./resolveuid/2b057e13f81e86aad632c23c1074b663) | [Next](./resolveuid/7c6e1dca9e9d7e001941647141088a9a) »
+« {{% resource_link "2b057e13-f81e-86aa-d632-c23c1074b663" "Previous" %}} | {{% resource_link "7c6e1dca-9e9d-7e00-1941-647141088a9a" "Next" %}} »
 
 ## Session Overview
 
@@ -30,8 +30,8 @@ Earlier in the semester, we discussed the labor supply decisions made by consume
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-- [\[R&T\]](./resolveuid/8abb293b49d8047a3f3674bfa02e78f7#_R_T_) Chapter 14, "Imperfectly Competitive Markets for Factors of Production."
-- \[[Perloff](./resolveuid/8abb293b49d8047a3f3674bfa02e78f7#_Perloff_)\] Chapter 15, "Factor Markets and Vertical Integration." (optional)
+- {{% resource_link "8abb293b-49d8-047a-3f36-74bfa02e78f7" "\[R&T\]" "#_R_T_" %}} Chapter 14, "Imperfectly Competitive Markets for Factors of Production."
+- \[{{% resource_link "8abb293b-49d8-047a-3f36-74bfa02e78f7" "Perloff" "#_Perloff_" %}}\] Chapter 15, "Factor Markets and Vertical Integration." (optional)
 
 ### Lecture Videos
 
@@ -39,7 +39,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-- [Graphs and Figures (PDF)](./resolveuid/0e1e66cab31c61557e4b1e13695c6299)
+- {{% resource_link "0e1e66ca-b31c-6155-7e4b-1e13695c6299" "Graphs and Figures (PDF)" %}}
 
 ## Further Study
 
@@ -63,4 +63,4 @@ An in-depth course on labor economics.
 
  
 
-« [Previous](./resolveuid/2b057e13f81e86aad632c23c1074b663) | [Next](./resolveuid/7c6e1dca9e9d7e001941647141088a9a) »
+« {{% resource_link "2b057e13-f81e-86aa-d632-c23c1074b663" "Previous" %}} | {{% resource_link "7c6e1dca-9e9d-7e00-1941-647141088a9a" "Next" %}} »

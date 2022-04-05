@@ -11,7 +11,7 @@ uid: 7c6e1dca-9e9d-7e00-1941-647141088a9a
 video_metadata:
   youtube_id: null
 ---
-« [Previous](./resolveuid/9af143892f78d160e3b7064bcdef0053) | [Next](./resolveuid/eb20a38656314e616324268b98c9df1d) »
+« {{% resource_link "9af14389-2f78-d160-e3b7-064bcdef0053" "Previous" %}} | {{% resource_link "eb20a386-5631-4e61-6324-268b98c9df1d" "Next" %}} »
 
 ## Session Overview
 
@@ -33,7 +33,7 @@ Roses you receive on Valentine’s Day may have been imported from another count
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-- [\[R&T\]](./resolveuid/8abb293b49d8047a3f3674bfa02e78f7#_R_T_) Chapter 17, "International Trade."
+- {{% resource_link "8abb293b-49d8-047a-3f36-74bfa02e78f7" "\[R&T\]" "#_R_T_" %}} Chapter 17, "International Trade."
 
 ### Lecture Videos
 
@@ -41,7 +41,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-- [Graphs and Figures (PDF)](./resolveuid/140751ff9fe6eb2976df6d6c5942fa7d)
+- {{% resource_link "140751ff-9fe6-eb29-76df-6d6c5942fa7d" "Graphs and Figures (PDF)" %}}
 
 ## Further Study
 
@@ -65,4 +65,4 @@ An in-depth course on game theory.
 
  
 
-« [Previous](./resolveuid/9af143892f78d160e3b7064bcdef0053) | [Next](./resolveuid/eb20a38656314e616324268b98c9df1d) »
+« {{% resource_link "9af14389-2f78-d160-e3b7-064bcdef0053" "Previous" %}} | {{% resource_link "eb20a386-5631-4e61-6324-268b98c9df1d" "Next" %}} »

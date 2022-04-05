@@ -11,7 +11,7 @@ uid: 2345b16d-4f54-dfc7-a811-91d1d1abbca2
 video_metadata:
   youtube_id: null
 ---
-« [Previous](./resolveuid/50af805fc0a0d661779cf0c42425f15d) | [Next](./resolveuid/6646396a08af4e2f2e6c5cd67f11bcf9) »
+« {{% resource_link "50af805f-c0a0-d661-779c-f0c42425f15d" "Previous" %}} | {{% resource_link "6646396a-08af-4e2f-2e6c-5cd67f11bcf9" "Next" %}} »
 
 ## Session Overview
 
@@ -30,8 +30,8 @@ We have already learned about the operation of two very different types of marke
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-- [\[R&T\]](./resolveuid/8abb293b49d8047a3f3674bfa02e78f7#_R_T_) Chapter 11, "The World of Imperfect Competition."
-- \[[Perloff](./resolveuid/8abb293b49d8047a3f3674bfa02e78f7#_Perloff_)\] Chapter 12, "Pricing and Advertising." (optional)
+- {{% resource_link "8abb293b-49d8-047a-3f36-74bfa02e78f7" "\[R&T\]" "#_R_T_" %}} Chapter 11, "The World of Imperfect Competition."
+- \[{{% resource_link "8abb293b-49d8-047a-3f36-74bfa02e78f7" "Perloff" "#_Perloff_" %}}\] Chapter 12, "Pricing and Advertising." (optional)
 
 ### Lecture Videos
 
@@ -39,7 +39,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-- [Graphs and Figures (PDF)](./resolveuid/c88ccce808be3e7e719650baa4f7cce0)
+- {{% resource_link "c88ccce8-08be-3e7e-7196-50baa4f7cce0" "Graphs and Figures (PDF)" %}}
 
 ## Further Study
 
@@ -63,4 +63,4 @@ An in-depth course on game theory.
 
  
 
-« [Previous](./resolveuid/50af805fc0a0d661779cf0c42425f15d) | [Next](./resolveuid/6646396a08af4e2f2e6c5cd67f11bcf9) »
+« {{% resource_link "50af805f-c0a0-d661-779c-f0c42425f15d" "Previous" %}} | {{% resource_link "6646396a-08af-4e2f-2e6c-5cd67f11bcf9" "Next" %}} »
