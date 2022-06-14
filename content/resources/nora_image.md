@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/14-01sc-principles-of-microeconomics-fall-2011/49f4930639496451f482db789d2beb23_nora_image.jpg
+file: /courses/14-01sc-principles-of-microeconomics-fall-2011/49f4930639496451f482db789d2beb23_nora_image.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

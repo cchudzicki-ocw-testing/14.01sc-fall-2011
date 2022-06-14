@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/14-01sc-principles-of-microeconomics-fall-2011/174c263ce006e40ef91a1887f8bfe0e0_MIT14_01SCF10_problem_7-2_300k.pdf
+file: /courses/14-01sc-principles-of-microeconomics-fall-2011/174c263ce006e40ef91a1887f8bfe0e0_MIT14_01SCF10_problem_7-2_300k.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

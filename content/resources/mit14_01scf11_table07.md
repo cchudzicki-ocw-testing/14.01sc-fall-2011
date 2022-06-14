@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to applying consumer theory:
   labor.'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/14-01sc-principles-of-microeconomics-fall-2011/81a05ac027a6510a90f501c621061571_MIT14_01SCF11_table07.pdf
+file: /courses/14-01sc-principles-of-microeconomics-fall-2011/81a05ac027a6510a90f501c621061571_MIT14_01SCF11_table07.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -15,3 +15,4 @@ uid: 81a05ac0-27a6-510a-90f5-01c621061571
 video_metadata:
   youtube_id: null
 ---
+This resource contains information related to applying consumer theory: labor.

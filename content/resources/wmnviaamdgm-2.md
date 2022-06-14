@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/14-01sc-principles-of-microeconomics-fall-2011/6ec8857a4c1e55d9a36e7f66fb6110be_WmnViAaMdGM.vtt
+file: /courses/14-01sc-principles-of-microeconomics-fall-2011/6ec8857a4c1e55d9a36e7f66fb6110be_WmnViAaMdGM.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
