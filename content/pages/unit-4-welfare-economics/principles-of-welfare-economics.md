@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides a lesson on the principles of welfare economics.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit 4: Welfare Economics'

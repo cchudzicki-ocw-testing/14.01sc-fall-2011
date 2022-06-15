@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a problem set on producer theory, productive and
+  costs, and competition.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit 3: Producer Theory'

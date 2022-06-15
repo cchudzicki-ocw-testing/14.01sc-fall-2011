@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides a problem set on monopoly and oligopoly.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit 5: Monopoly and Oligopoly'

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides information on the sixth unit of the course:  Topics
+  in Intermediate Microeconomics.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit 6: Topics in Intermediate Microeconomics'

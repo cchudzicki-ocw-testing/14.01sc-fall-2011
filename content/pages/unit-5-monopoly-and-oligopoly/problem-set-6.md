@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a problem set on the principles of welfare economy
+  and monopoly.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit 5: Monopoly and Oligopoly'

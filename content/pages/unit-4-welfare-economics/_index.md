@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides information on the fourth unit of the course:  Welfare
+  Economics.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit 4: Welfare Economics'

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides a lesson on government redistribution policy.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit 7: Equity and Efficiency'

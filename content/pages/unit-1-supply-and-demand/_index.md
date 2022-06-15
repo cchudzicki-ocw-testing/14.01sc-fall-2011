@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides information on the first unit of the course: Supply
+  and Demand.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit 1: Supply and Demand'

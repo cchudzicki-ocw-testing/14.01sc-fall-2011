@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information to prepare students for the final exam
+  of the course, including a review of content, practice exams, and exam problems
+  and solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Final Exam

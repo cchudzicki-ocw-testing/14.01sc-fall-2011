@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides information on the third unit of the course:  Producer
+  Theory.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit 3: Producer Theory'

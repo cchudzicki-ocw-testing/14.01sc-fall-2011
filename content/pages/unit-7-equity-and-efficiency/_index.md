@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides information on the seventh unit of the course:  Equity
+  and Efficiency.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit 7: Equity and Efficiency'

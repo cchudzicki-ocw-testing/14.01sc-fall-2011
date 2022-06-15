@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides a lesson on the role of social insurance.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit 7: Equity and Efficiency'

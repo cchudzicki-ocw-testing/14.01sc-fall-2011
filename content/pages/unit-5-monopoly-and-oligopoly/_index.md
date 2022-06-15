@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides information on the fifth unit of the course: Monopoly
+  and Oligopoly.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Unit 5: Monopoly and Oligopoly'

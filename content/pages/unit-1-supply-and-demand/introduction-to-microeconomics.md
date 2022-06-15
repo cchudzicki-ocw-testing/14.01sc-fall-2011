@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides an introduction to microeconomics.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit 1: Supply and Demand'
