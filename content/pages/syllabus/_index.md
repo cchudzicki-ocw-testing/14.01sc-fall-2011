@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides an overview of the course and information
+  on prerequisites and preparation, goals, components and requirements, deliverables
+  and grading, and acknowledgements.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
