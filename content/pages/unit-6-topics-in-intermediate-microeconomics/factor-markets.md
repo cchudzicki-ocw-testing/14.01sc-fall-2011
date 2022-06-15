@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a lesson on the operation of firms in the factor
+  markets that supply the factors (labor and capital) they use in production.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
