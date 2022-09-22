@@ -12,6 +12,7 @@ image_metadata:
     Source: Library of Congress.'
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Introduction to Producer Theory
 parent_type: CourseSection

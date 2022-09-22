@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of johnthurm on Flickr.
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Competition II
 parent_type: CourseSection

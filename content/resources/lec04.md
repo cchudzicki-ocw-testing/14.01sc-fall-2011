@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of William Jones on Flickr.
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Preferences and Utility
 parent_type: CourseSection

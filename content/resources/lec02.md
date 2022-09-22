@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of Aaron Tyo-Dikerson on Flickr.
   image-alt: Gasoline prices.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Applying Supply and Demand
 parent_type: CourseSection

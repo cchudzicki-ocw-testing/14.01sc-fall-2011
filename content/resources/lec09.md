@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of AndreasPraefcke on Wikipedia.
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Productivity and Costs
 parent_type: CourseSection
