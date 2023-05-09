@@ -8,8 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types:
-- Problem Sets
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Problem Set 1
@@ -19,6 +18,7 @@ resourcetype: Document
 title: MIT14_01SCF10_problem_1-4_300k.pdf
 uid: da35a03f-ce47-b947-9394-f039879f595e
 video_files:
+  archive_url: ''
   video_captions_file: ''
   video_thumbnail_file: ''
   video_transcript_file: ''
