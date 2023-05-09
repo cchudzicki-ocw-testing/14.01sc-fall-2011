@@ -8,8 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types:
-- Lecture Notes
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Meet the TAs
@@ -19,6 +18,7 @@ resourcetype: Document
 title: MIT14_01SCF10_intro_300k.pdf
 uid: c4d5aad5-580e-c3e9-1b4a-cf2973a1b833
 video_files:
+  archive_url: ''
   video_captions_file: ''
   video_thumbnail_file: ''
   video_transcript_file: ''
