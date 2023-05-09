@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Problem Sets with Solutions
+- Exams with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Midterm Exam 2
@@ -20,6 +20,7 @@ resourcetype: Document
 title: MIT14_01SCF11_exam02_soln.pdf
 uid: 81a3f61f-c64b-47eb-c0fb-e50c0c0b5fcb
 video_files:
+  archive_url: ''
   video_captions_file: ''
   video_thumbnail_file: ''
   video_transcript_file: ''
